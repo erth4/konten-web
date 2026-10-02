@@ -134,7 +134,7 @@ Dari tabel tersebut, terlihat bahwa TBT, LCP, dan CLS menyumbang sebagian besar 
 
 Metrik laboratorium ditampilkan tepat di bawah skor kinerja. Setiap metrik diberi warna sesuai kategorinya. Memahami arti setiap metrik membantu Anda mengetahui bagian mana dari proses pemuatan yang bermasalah. Metrik-metrik ini saling berhubungan, sehingga satu perbaikan bisa memengaruhi beberapa metrik sekaligus. Berikut penjelasan setiap metrik.
 
-**First Contentful Paint (FCP).** FCP mengukur waktu hingga konten pertama, seperti teks atau gambar, muncul di layar. Metrik ini menunjukkan kapan pengguna pertama kali melihat bahwa halaman sedang dimuat. FCP yang lambat biasanya disebabkan oleh server yang lambat merespons atau sumber daya yang memblokir rendering. Font kustom yang lambat dimuat juga bisa menunda tampilnya teks. Perbaikan di sisi server dan pengurangan CSS yang memblokir sering mempercepat FCP.
+**First Contentful Paint (FCP).** FCP mencatat kapan browser pertama kali menggambar konten apa pun, misalnya teks atau gambar, di layar. Metrik ini menunjukkan kapan pengguna pertama kali melihat bahwa halaman sedang dimuat. FCP yang lambat biasanya disebabkan oleh server yang lambat merespons atau sumber daya yang memblokir rendering. Font kustom yang lambat dimuat juga bisa menunda tampilnya teks. Perbaikan di sisi server dan pengurangan CSS yang memblokir sering mempercepat FCP.
 
 **Largest Contentful Paint (LCP).** LCP mengukur waktu hingga elemen konten terbesar di layar pertama selesai ditampilkan. Elemen ini biasanya berupa gambar utama atau blok teks besar. LCP mencerminkan kapan pengguna merasa konten utama sudah tersedia. Laporan Lighthouse menunjukkan elemen mana yang menjadi elemen LCP. Informasi ini sangat penting untuk menentukan langkah perbaikan.
 
@@ -166,7 +166,7 @@ Nama dan pengelompokan temuan dapat berubah seiring pembaruan Lighthouse. Bebera
 
 ### Temuan yang Berkaitan dengan Ukuran Sumber Daya
 
-**Perbaikan pengiriman gambar.** Temuan ini mencakup gambar yang terlalu besar dibanding ukuran tampilannya, belum menggunakan format modern, atau belum dikompres dengan baik. Lighthouse menampilkan daftar gambar beserta perkiraan penghematan ukuran. Arah perbaikannya adalah mengubah ukuran gambar, menggunakan format WebP atau AVIF, dan menyediakan beberapa ukuran dengan `srcset`. Gambar sering menjadi sumber penghematan terbesar. Panduan lengkapnya ada di artikel [optimasi gambar website](/optimasi-gambar-website/).
+**Perbaikan pengiriman gambar.** Temuan ini mencakup gambar yang terlalu besar dibanding ukuran tampilannya, belum menggunakan format modern, atau belum dikompres dengan baik. Lighthouse menampilkan daftar gambar beserta perkiraan penghematan ukuran. Arah perbaikannya adalah mengubah ukuran gambar, menggunakan format WebP atau AVIF, dan menyediakan beberapa ukuran dengan `srcset`. Gambar sering menjadi sumber penghematan terbesar. Langkah-langkah rincinya dibahas dalam artikel [optimasi gambar website](/optimasi-gambar-website/).
 
 **Kurangi JavaScript dan CSS yang tidak digunakan.** Temuan ini menunjukkan berapa banyak kode yang dimuat tetapi tidak digunakan di halaman tersebut. Kode yang tidak digunakan tetap harus diunduh dan diproses. Sumbernya sering berasal dari tema, plugin, atau pustaka yang dimuat di semua halaman. Arah perbaikannya adalah memuat kode hanya di halaman yang membutuhkannya. Gunakan juga fitur *code splitting* jika memakai alat build modern.
 
@@ -242,7 +242,7 @@ Membaca laporan hanyalah langkah awal. Nilai sebenarnya ada pada tindakan yang d
 
 **Langkah 4: Terapkan perbaikan dan uji ulang.** Terapkan perbaikan di lingkungan pengujian jika memungkinkan. Jalankan Lighthouse beberapa kali untuk melihat dampaknya. Pastikan tidak ada fungsi website yang rusak akibat perubahan. Setelah yakin, terapkan ke website utama. Catat tanggal dan isi perubahan untuk keperluan evaluasi.
 
-**Langkah 5: Pantau data pengguna nyata.** Setelah perbaikan diterapkan, pantau data pengguna nyata selama beberapa minggu. Ingat bahwa data ini merupakan agregat 28 hari. Jika menggunakan Search Console, mulai proses validasi untuk masalah yang sudah diperbaiki. Jika data membaik, lanjutkan ke masalah berikutnya. Jika tidak, ulangi proses diagnosis untuk mencari penyebab lain.
+**Langkah 5: Pantau data pengguna nyata.** Setelah perbaikan diterapkan, pantau data pengguna nyata selama beberapa minggu. Ingat bahwa data ini merupakan agregat 28 hari. Jika menggunakan Search Console, mulai proses validasi untuk masalah yang sudah diperbaiki. Jika data membaik, lanjutkan ke masalah berikutnya. Jika belum membaik, kembali ke data laboratorium untuk mencari penyebab lain.
 
 ## Contoh Membaca Laporan
 
@@ -300,7 +300,7 @@ Sampaikan rencana perbaikan dalam bentuk prioritas yang jelas. Jelaskan perkiraa
 
 **Mengejar skor 100 dengan segala cara.** Skor 100 bukan tujuan akhir. Beberapa orang menghapus fitur penting, seperti formulir kontak atau analitik, hanya demi skor sempurna. Ada juga yang menerapkan trik yang membuat skor naik tetapi pengalaman pengguna tidak berubah. Fokuslah pada pengalaman pengguna nyata yang tercermin dalam data lapangan. Skor yang cukup baik dengan fungsi lengkap lebih bernilai daripada skor sempurna dengan fungsi yang hilang.
 
-**Hanya menguji beranda.** Beranda sering kali bukan halaman yang paling banyak dikunjungi dari mesin pencari. Pengunjung lebih sering masuk melalui halaman artikel, produk, atau kategori. Halaman-halaman tersebut bisa memiliki masalah yang sangat berbeda. Uji setiap jenis templat halaman yang penting. Gunakan laporan Search Console untuk menemukan kelompok halaman yang bermasalah.
+**Hanya menguji beranda.** Beranda sering kali bukan halaman yang paling banyak dikunjungi dari mesin pencari. Pengunjung lebih sering masuk melalui halaman artikel, produk, atau kategori. Halaman-halaman tersebut bisa memiliki masalah yang sangat berbeda. Lakukan pengujian pada setiap jenis templat halaman yang penting. Gunakan laporan Search Console untuk menemukan kelompok halaman yang bermasalah.
 
 **Membandingkan skor seluler dan desktop.** Kondisi pengujian seluler dan desktop sangat berbeda. Wajar jika skor seluler jauh lebih rendah. Membandingkan keduanya secara langsung tidak memberikan informasi yang berguna. Bandingkan skor seluler dengan skor seluler sebelumnya atau dengan pesaing. Prioritaskan perbaikan berdasarkan hasil seluler.
 

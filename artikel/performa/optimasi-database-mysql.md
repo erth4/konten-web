@@ -298,9 +298,9 @@ WordPress menggunakan MySQL atau MariaDB sebagai basis datanya. Struktur tabel W
 
 **Tabel metadata.** Tabel seperti `wp_postmeta` menyimpan data tambahan dalam bentuk pasangan kunci dan nilai. Struktur ini sangat fleksibel, tetapi query yang memfilter berdasarkan nilai metadata bisa sangat lambat pada data besar. Toko daring dengan banyak produk dan atribut paling sering mengalami masalah ini. Hindari query yang memfilter banyak kondisi metadata sekaligus. Untuk kebutuhan kompleks, pertimbangkan tabel khusus atau solusi pencarian yang lebih efisien.
 
-**Revisi, transient, dan data sisa.** WordPress menyimpan revisi artikel yang bisa menumpuk menjadi sangat banyak. Data sementara atau *transient* yang sudah kedaluwarsa juga bisa tertinggal di basis data. Plugin yang sudah dihapus sering meninggalkan tabel dan data. Bersihkan data-data ini secara berkala dengan hati-hati. Selalu buat cadangan basis data sebelum melakukan pembersihan.
+**Revisi, transient, dan data sisa.** WordPress menyimpan revisi artikel yang bisa menumpuk menjadi sangat banyak. Data sementara atau *transient* yang sudah kedaluwarsa juga bisa tertinggal di basis data. Plugin yang sudah dihapus sering meninggalkan tabel dan data. Bersihkan data-data ini secara berkala dengan hati-hati. Pastikan cadangan basis data sudah tersedia sebelum pembersihan dimulai.
 
-**Object cache persisten.** Secara bawaan, object cache WordPress hanya bertahan selama satu permintaan. Dengan Redis atau Memcached, object cache bisa bertahan di antara permintaan. Hasilnya, banyak query berulang tidak perlu dijalankan lagi. Fitur ini sangat bermanfaat untuk website dinamis seperti toko WooCommerce dan forum. Banyak hosting terkelola sudah menyediakan fitur ini.
+**Object cache persisten.** Secara bawaan, object cache WordPress hanya bertahan selama satu permintaan. Dengan Redis atau Memcached, object cache bisa bertahan di antara permintaan. Hasilnya, banyak query berulang tidak perlu dijalankan lagi. Fitur ini sangat bermanfaat untuk website dinamis seperti toko WooCommerce dan forum. Fitur ini sering sudah tersedia di layanan hosting WordPress terkelola.
 
 **Pantau query per halaman.** Gunakan plugin pemantau query di lingkungan pengembangan atau pengujian. Plugin ini menampilkan jumlah query, durasi, dan asal query untuk setiap halaman. Dari data ini, Anda bisa mengetahui plugin atau tema mana yang paling membebani basis data. Jangan biarkan plugin pemantau aktif di website produksi untuk pengunjung umum. Gunakan informasi tersebut untuk memutuskan perbaikan atau penggantian plugin.
 
@@ -314,7 +314,7 @@ Batasi juga hak akses akun basis data yang digunakan aplikasi. Akun aplikasi seb
 
 Basis data membutuhkan perawatan rutin agar tetap sehat dan cepat. Data terus bertambah, pola penggunaan berubah, dan query baru ditambahkan seiring pengembangan aplikasi. Tanpa perawatan, kinerja bisa menurun perlahan tanpa disadari. Perawatan rutin juga membantu mendeteksi masalah sebelum berdampak besar. Berikut kegiatan perawatan yang dianjurkan.
 
-**Tinjau slow query log secara berkala.** Jadikan peninjauan slow query log sebagai kegiatan rutin, misalnya setiap minggu atau setiap bulan. Query baru yang lambat sering muncul setelah ada fitur baru atau pertumbuhan data. Semakin cepat terdeteksi, semakin mudah diperbaiki. Catat query yang sudah diperbaiki beserta perubahan yang dilakukan. Catatan ini berguna bagi tim di masa depan.
+**Tinjau slow query log secara berkala.** Jadikan peninjauan slow query log sebagai kegiatan rutin, misalnya setiap minggu atau setiap bulan. Query baru yang lambat sering muncul setelah ada fitur baru atau pertumbuhan data. Query bermasalah yang ditemukan lebih awal biasanya lebih mudah ditangani. Catat query yang sudah diperbaiki beserta perubahan yang dilakukan. Catatan ini berguna bagi tim di masa depan.
 
 **Hapus index yang tidak digunakan.** Seiring waktu, beberapa index mungkin tidak lagi digunakan karena query berubah. Index yang tidak digunakan tetap membebani operasi tulis dan memakan ruang. MySQL menyediakan tabel di skema `sys` yang dapat menunjukkan index yang tidak pernah digunakan sejak server dimulai. Periksa data tersebut setelah server berjalan cukup lama. Hapus index hanya setelah yakin tidak ada query penting yang membutuhkannya.
 
@@ -406,7 +406,7 @@ Langkah ketiga adalah memeriksa kode aplikasi di halaman tersebut. Ditemukan bah
 
 ### Bagaimana cara mengetahui query MySQL yang lambat?
 
-Aktifkan slow query log dengan batas waktu yang sesuai, lalu analisis log tersebut menggunakan alat seperti `mysqldumpslow` atau `pt-query-digest`. Dari sisi aplikasi, gunakan alat debug atau pemantauan yang menampilkan durasi setiap query. Prioritaskan query dengan total waktu terbesar.
+Aktifkan slow query log dengan batas waktu yang sesuai, lalu analisis log tersebut menggunakan alat seperti `mysqldumpslow` atau `pt-query-digest`. Dari sisi aplikasi, gunakan alat debug atau pemantauan yang menampilkan durasi setiap query. Fokuskan perbaikan pada query yang paling banyak menghabiskan waktu secara keseluruhan.
 
 ### Apakah menambahkan index selalu mempercepat query?
 

@@ -1,6 +1,6 @@
 ---
 title: "CDN Adalah: Pengertian, Cara Kerja, dan Manfaatnya"
-meta_description: "Apa itu CDN? Pelajari cara kerja content delivery network, edge server, cache hit dan miss, manfaat untuk kecepatan dan keamanan, serta cara memasang CDN dengan benar."
+meta_description: "Apa itu CDN? Pelajari cara kerja content delivery network, cache hit dan miss, manfaatnya untuk kecepatan dan keamanan, serta cara memasangnya dengan benar."
 slug: "cdn-pengertian-cara-kerja-manfaat"
 focus_keyword: "CDN"
 keywords:
@@ -299,7 +299,7 @@ Pelajari kebijakan privasi dan perjanjian pemrosesan data dari penyedia CDN. Per
 
 ## Kesalahan Umum Saat Menggunakan CDN
 
-CDN memang mudah dipasang, tetapi konfigurasi yang keliru bisa menimbulkan masalah serius. Sebagian kesalahan membuat CDN tidak memberikan manfaat apa pun. Sebagian lain justru membahayakan keamanan data pengguna. Kenali kesalahan-kesalahan berikut agar Anda bisa menghindarinya. Periksa juga apakah konfigurasi CDN Anda saat ini mengalami salah satunya.
+CDN memang mudah dipasang, tetapi konfigurasi yang keliru bisa menimbulkan masalah serius. Sebagian kesalahan membuat CDN tidak memberikan manfaat apa pun. Sebagian lain justru membahayakan keamanan data pengguna. Berikut kesalahan-kesalahan yang paling sering terjadi. Periksa juga apakah konfigurasi CDN Anda saat ini mengalami salah satunya.
 
 **Menyimpan konten personal di cache.** Ini adalah kesalahan paling berbahaya dalam penggunaan CDN. Jika halaman akun atau keranjang tersimpan di cache bersama, pengguna lain bisa melihat data milik orang lain. Kesalahan ini sering terjadi saat aturan cache dibuat terlalu luas, misalnya menyimpan semua halaman HTML. Selalu kecualikan halaman personal dan permintaan dengan cookie sesi. Uji dengan beberapa akun berbeda setelah mengubah aturan cache.
 

@@ -1,6 +1,6 @@
 ---
 title: "Cara Menulis Artikel SEO Friendly: Panduan dari Nol"
-meta_description: "Pelajari cara menulis artikel SEO friendly langkah demi langkah: menyusun brief, kerangka, judul, pembuka, struktur, keterbacaan, hingga checklist sebelum terbit."
+meta_description: "Pelajari cara menulis artikel SEO friendly: menyusun brief, kerangka, judul, pembuka, struktur yang mudah dibaca, hingga checklist sebelum artikel terbit."
 slug: "cara-menulis-artikel-seo-friendly"
 focus_keyword: "cara menulis artikel SEO friendly"
 keywords:

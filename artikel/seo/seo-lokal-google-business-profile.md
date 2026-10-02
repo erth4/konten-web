@@ -1,6 +1,6 @@
 ---
 title: "SEO Lokal: Cara Optimasi Google Business Profile"
-meta_description: "Panduan SEO lokal untuk UMKM: cara membuat dan mengoptimasi Google Business Profile, mengelola ulasan, halaman lokasi, data terstruktur, dan muncul di Google Maps."
+meta_description: "Panduan SEO lokal untuk UMKM: cara membuat dan mengoptimasi Google Business Profile, mengelola ulasan, halaman lokasi, dan agar muncul di Google Maps."
 slug: "seo-lokal-google-business-profile"
 focus_keyword: "SEO lokal"
 keywords:
