@@ -1,6 +1,6 @@
 ---
-title: "Core Web Vitals: Pengertian LCP, INP, CLS dan Cara Memperbaikinya"
-meta_description: "Pelajari Core Web Vitals (LCP, INP, CLS): ambang batas nilai, cara mengukur di PageSpeed Insights dan Search Console, penyebab skor buruk, dan cara memperbaikinya."
+title: "Core Web Vitals: Arti LCP, INP, CLS dan Cara Memperbaikinya"
+meta_description: "Pelajari Core Web Vitals (LCP, INP, CLS): ambang batas nilai, cara mengukur di PageSpeed Insights dan Search Console, serta cara memperbaikinya."
 slug: "core-web-vitals-lcp-inp-cls"
 focus_keyword: "Core Web Vitals"
 keywords:

@@ -1,6 +1,6 @@
 ---
-title: "Cara Mempercepat Loading Website: 20 Teknik yang Terbukti Efektif"
-meta_description: "Website lambat? Ikuti 20 cara mempercepat loading website: hosting, caching, CDN, kompresi, HTTP/2, optimasi CSS-JavaScript, font, database, hingga tips WordPress."
+title: "Cara Mempercepat Loading Website: 20 Teknik Efektif"
+meta_description: "Website lambat? Ikuti 20 cara mempercepat loading website: hosting, caching, CDN, kompresi, optimasi CSS, JavaScript, font, hingga tips WordPress."
 slug: "cara-mempercepat-loading-website"
 focus_keyword: "cara mempercepat loading website"
 keywords:
@@ -383,7 +383,7 @@ Penyebab paling umum adalah hosting yang kurang memadai, tidak adanya caching, g
 
 ### Apakah CDN wajib digunakan?
 
-CDN tidak wajib, tetapi sangat dianjurkan, terutama jika pengunjung berasal dari banyak lokasi. CDN mempercepat pengiriman file dan mengurangi beban server utama. Banyak penyedia CDN menawarkan paket gratis yang cukup untuk website kecil.
+CDN tidak wajib, tetapi sangat dianjurkan, terutama jika pengunjung berasal dari banyak lokasi. CDN mempercepat pengiriman file dan mengurangi beban server utama. Untuk website kecil, paket gratis dari penyedia CDN biasanya sudah memadai.
 
 ### Berapa kecepatan loading website yang ideal?
 

@@ -1,6 +1,6 @@
 ---
 title: "Optimasi Gambar Website: Format, Kompresi, dan SEO Gambar"
-meta_description: "Panduan optimasi gambar website: memilih format (WebP, AVIF, JPEG, PNG, SVG), kompresi, gambar responsif srcset, lazy load, alt text, dan SEO gambar agar web lebih cepat."
+meta_description: "Panduan optimasi gambar website: pilih format WebP, AVIF, atau SVG, kompres, buat gambar responsif dengan srcset, lazy load, dan SEO gambar."
 slug: "optimasi-gambar-website"
 focus_keyword: "optimasi gambar website"
 keywords:

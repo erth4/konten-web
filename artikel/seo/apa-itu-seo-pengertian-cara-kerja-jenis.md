@@ -1,5 +1,5 @@
 ---
-title: "Apa Itu SEO? Pengertian, Cara Kerja, dan Jenisnya untuk Pemula"
+title: "Apa Itu SEO? Pengertian, Cara Kerja, dan Jenis-Jenisnya"
 meta_description: "Pahami apa itu SEO, cara kerja mesin pencari, jenis SEO (on-page, off-page, teknis, lokal), E-E-A-T, alat bantu, dan langkah memulai SEO dari nol."
 slug: "apa-itu-seo-pengertian-cara-kerja-jenis"
 focus_keyword: "apa itu SEO"

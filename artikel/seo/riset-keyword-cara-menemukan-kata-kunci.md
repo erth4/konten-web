@@ -1,6 +1,6 @@
 ---
-title: "Riset Keyword: Cara Menemukan Kata Kunci yang Tepat untuk SEO"
-meta_description: "Panduan riset keyword langkah demi langkah: jenis kata kunci, search intent, alat gratis dan berbayar, keyword mapping, hingga contoh penerapan untuk blog dan bisnis."
+title: "Riset Keyword: Cara Menemukan Kata Kunci yang Tepat"
+meta_description: "Panduan riset keyword langkah demi langkah: jenis kata kunci, search intent, alat gratis dan berbayar, keyword mapping, dan contoh penerapannya."
 slug: "riset-keyword-cara-menemukan-kata-kunci"
 focus_keyword: "riset keyword"
 keywords:

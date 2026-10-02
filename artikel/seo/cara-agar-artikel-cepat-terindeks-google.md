@@ -1,6 +1,6 @@
 ---
 title: "Cara Agar Artikel Cepat Terindeks Google: Panduan Lengkap"
-meta_description: "Artikel belum muncul di Google? Pelajari cara cek status indeks, 15 langkah mempercepat indexing, arti status di Search Console, dan solusi halaman tidak terindeks."
+meta_description: "Artikel belum muncul di Google? Pelajari cara cek status indeks, 15 cara mempercepat indexing, dan solusi halaman tidak terindeks di Search Console."
 slug: "cara-agar-artikel-cepat-terindeks-google"
 focus_keyword: "cara agar artikel cepat terindeks Google"
 keywords:
