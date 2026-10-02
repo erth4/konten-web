@@ -45,7 +45,7 @@ Panduan ini membahas **cara agar artikel cepat terindeks Google** secara lengkap
 
 Indexing atau pengindeksan adalah proses ketika Google menyimpan informasi tentang sebuah halaman ke dalam basis datanya. Basis data raksasa ini disebut indeks Google. Hanya halaman yang sudah masuk indeks yang bisa muncul di hasil pencarian. Jika halaman belum terindeks, halaman tersebut tidak akan ditemukan melalui Google, seberapa bagus pun isinya. Karena itu, pengindeksan adalah syarat dasar sebelum berbicara tentang peringkat.
 
-Sebelum diindeks, halaman harus ditemukan dan dirayapi terlebih dahulu. Googlebot menemukan halaman melalui tautan dari halaman lain atau melalui sitemap. Setelah itu, Googlebot mengunduh dan merender halaman tersebut. Google lalu menganalisis isi halaman dan memutuskan apakah halaman itu layak masuk indeks. Rangkaian proses ini dijelaskan lebih luas di artikel [apa itu SEO](/apa-itu-seo-pengertian-cara-kerja-jenis/).
+Sebelum diindeks, halaman harus ditemukan dan dirayapi terlebih dahulu. Googlebot menemukan halaman melalui tautan dari halaman lain atau melalui sitemap. Setelah itu, Googlebot mengunduh dan merender halaman tersebut. Google lalu menganalisis isi halaman dan memutuskan apakah halaman itu layak masuk indeks. Rangkaian proses ini dijelaskan lebih luas di artikel apa itu SEO.
 
 Ada satu hal penting yang sering disalahpahami. Dirayapi tidak sama dengan diindeks. Google bisa saja merayapi sebuah halaman, tetapi memutuskan untuk tidak memasukkannya ke indeks. Keputusan ini biasanya berkaitan dengan kualitas, duplikasi, atau sinyal teknis tertentu. Memahami perbedaan ini akan membantu Anda mendiagnosis masalah dengan lebih tepat.
 
@@ -139,13 +139,13 @@ Periksa tag kanonis dengan melihat kode sumber halaman. Cari elemen `<link rel="
 
 Google tidak mengindeks semua halaman yang dirayapinya. Halaman yang isinya tipis, berulang, atau tidak memberikan nilai tambah sering kali dilewati. Ini adalah salah satu penyebab paling umum artikel tidak terindeks. Banyak pemilik website mencari solusi teknis, padahal masalahnya ada pada kualitas konten. Konten yang unik dan benar-benar membantu pembaca jauh lebih mungkin diindeks.
 
-Sebelum menerbitkan artikel, tanyakan apa yang membuat artikel Anda berbeda dari yang sudah ada. Apakah ada pengalaman pribadi, data baru, contoh lokal, atau penjelasan yang lebih jelas? Hindari menerbitkan artikel yang hanya menulis ulang konten orang lain. Hindari juga membuat banyak halaman yang isinya hampir sama dengan hanya beberapa kata yang diganti. Riset kata kunci yang baik, seperti dibahas di artikel [riset keyword](/riset-keyword-cara-menemukan-kata-kunci/), membantu menghindari tumpang tindih topik.
+Sebelum menerbitkan artikel, tanyakan apa yang membuat artikel Anda berbeda dari yang sudah ada. Apakah ada pengalaman pribadi, data baru, contoh lokal, atau penjelasan yang lebih jelas? Hindari menerbitkan artikel yang hanya menulis ulang konten orang lain. Hindari juga membuat banyak halaman yang isinya hampir sama dengan hanya beberapa kata yang diganti. Riset kata kunci yang baik, seperti dibahas di artikel riset keyword, membantu menghindari tumpang tindih topik.
 
 ### 9. Pastikan Server Cepat dan Stabil
 
 Kesehatan server memengaruhi seberapa banyak halaman yang dirayapi Google. Jika server lambat atau sering menampilkan galat, Google akan mengurangi kecepatan perayapan. Tujuannya agar perayapan tidak membebani server Anda. Akibatnya, halaman baru akan ditemukan lebih lambat. Website yang responsif memungkinkan Google merayapi lebih banyak halaman dalam waktu yang sama.
 
-Periksa laporan Statistik Perayapan di Search Console. Laporan ini menunjukkan jumlah permintaan perayapan, waktu respons rata-rata, dan status respons server. Jika banyak respons galat 5xx, segera hubungi penyedia hosting atau tim teknis. Pastikan juga setiap artikel mengembalikan kode status 200 ketika diakses. Panduan teknis untuk meningkatkan kecepatan server ada di artikel [cara mempercepat loading website](/cara-mempercepat-loading-website/).
+Periksa laporan Statistik Perayapan di Search Console. Laporan ini menunjukkan jumlah permintaan perayapan, waktu respons rata-rata, dan status respons server. Jika banyak respons galat 5xx, segera hubungi penyedia hosting atau tim teknis. Pastikan juga setiap artikel mengembalikan kode status 200 ketika diakses. Panduan teknis untuk meningkatkan kecepatan server ada di artikel cara mempercepat loading website.
 
 ### 10. Pastikan Konten Dapat Dirender oleh Google
 
@@ -378,4 +378,4 @@ Data terstruktur tidak secara langsung mempercepat pengindeksan. Fungsinya adala
 
 Pengindeksan adalah syarat dasar agar artikel bisa muncul di hasil pencarian Google. Kecepatan pengindeksan tidak bisa dipastikan, tetapi bisa didorong dengan langkah yang tepat. Mulailah dengan mendaftarkan website ke Search Console, mengirim sitemap, dan meminta pengindeksan untuk artikel penting. Pastikan tidak ada hambatan teknis seperti robots.txt, `noindex`, kanonis yang keliru, atau masalah rendering. Perkuat tautan internal dan jaga kesehatan server agar halaman baru cepat ditemukan.
 
-Di atas semua itu, kualitas konten tetap menjadi penentu utama. Google memprioritaskan halaman yang unik dan bermanfaat bagi pengguna. Jika artikel tidak kunjung terindeks, tinjau status di Search Console dan gunakan checklist di atas untuk menemukan penyebabnya. Untuk memastikan topik yang Anda tulis memang dicari orang, gunakan panduan [riset keyword](/riset-keyword-cara-menemukan-kata-kunci/). Agar halaman yang sudah terindeks tetap nyaman diakses, pelajari juga [Core Web Vitals](/core-web-vitals-lcp-inp-cls/).
+Di atas semua itu, kualitas konten tetap menjadi penentu utama. Google memprioritaskan halaman yang unik dan bermanfaat bagi pengguna. Jika artikel tidak kunjung terindeks, tinjau status di Search Console dan gunakan checklist di atas untuk menemukan penyebabnya. Untuk memastikan topik yang Anda tulis memang dicari orang, gunakan panduan riset keyword. Agar halaman yang sudah terindeks tetap nyaman diakses, pelajari juga Core Web Vitals.

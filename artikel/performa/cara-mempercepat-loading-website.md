@@ -48,7 +48,7 @@ Kecepatan website memengaruhi hampir semua aspek keberhasilan sebuah website. As
 
 Kecepatan juga berpengaruh pada pencapaian bisnis. Di toko daring, halaman produk yang lambat dapat membuat calon pembeli membatalkan niatnya. Di website layanan, formulir yang lambat merespons bisa membuat calon klien menyerah. Banyak perusahaan teknologi telah membagikan studi kasus tentang perbaikan kecepatan yang diikuti peningkatan konversi. Meski hasil setiap website berbeda, polanya cukup konsisten.
 
-Dari sisi mesin pencari, kecepatan merupakan bagian dari pengalaman halaman yang diperhatikan Google. Metrik seperti Largest Contentful Paint sangat dipengaruhi oleh kecepatan server dan ukuran sumber daya. Penjelasan lengkap metrik tersebut ada di artikel [Core Web Vitals](/core-web-vitals-lcp-inp-cls/). Website yang cepat juga lebih mudah dirayapi oleh mesin pencari. Server yang responsif memungkinkan lebih banyak halaman dirayapi dalam waktu yang sama.
+Dari sisi mesin pencari, kecepatan merupakan bagian dari pengalaman halaman yang diperhatikan Google. Metrik seperti Largest Contentful Paint sangat dipengaruhi oleh kecepatan server dan ukuran sumber daya. Penjelasan lengkap metrik tersebut ada di artikel Core Web Vitals. Website yang cepat juga lebih mudah dirayapi oleh mesin pencari. Server yang responsif memungkinkan lebih banyak halaman dirayapi dalam waktu yang sama.
 
 Terakhir, kecepatan berkaitan dengan biaya dan inklusivitas. Halaman yang ringan menghemat kuota data pengunjung. Hal ini penting di Indonesia, di mana banyak pengguna masih mengandalkan paket data dengan kuota terbatas. Halaman yang efisien juga mengurangi beban server dan biaya bandwidth. Dengan kata lain, website yang cepat menguntungkan pengunjung sekaligus pemilik website.
 
@@ -263,7 +263,7 @@ Jika memungkinkan, simpan file font di server sendiri daripada memuatnya dari la
 
 Gambar biasanya menyumbang porsi terbesar dari ukuran halaman. Mengoptimasi gambar sering menjadi cara tercepat untuk mengurangi berat halaman secara drastis. Langkah utamanya adalah mengubah ukuran gambar sesuai tampilan, menggunakan format modern seperti WebP atau AVIF, dan mengompresnya. Sediakan beberapa ukuran gambar agar perangkat kecil tidak mengunduh gambar berukuran besar. Gunakan lazy load untuk gambar di bawah area layar pertama.
 
-Topik ini cukup luas sehingga kami membahasnya dalam artikel tersendiri. Di sana Anda akan menemukan perbandingan format gambar, cara menulis `srcset` dan `sizes`, serta alat kompresi yang direkomendasikan. Pembahasan juga mencakup optimasi gambar untuk SEO dan aksesibilitas. Silakan baca panduan lengkap [optimasi gambar website](/optimasi-gambar-website/). Menerapkan panduan tersebut sering memberikan hasil paling nyata dalam waktu singkat.
+Topik ini cukup luas sehingga kami membahasnya dalam artikel tersendiri. Di sana Anda akan menemukan perbandingan format gambar, cara menulis `srcset` dan `sizes`, serta alat kompresi yang direkomendasikan. Pembahasan juga mencakup optimasi gambar untuk SEO dan aksesibilitas. Silakan baca panduan lengkap optimasi gambar website. Menerapkan panduan tersebut sering memberikan hasil paling nyata dalam waktu singkat.
 
 ### 19. Tunda Pemuatan Video, Iframe, dan Sematan
 
@@ -322,7 +322,7 @@ Dua puluh teknik di atas tidak harus diterapkan semuanya sekaligus. Setiap websi
 
 **Jika halaman lama tampil meskipun ukurannya kecil**, kemungkinan besar ada sumber daya yang memblokir rendering. Periksa CSS dan JavaScript yang dimuat di bagian `<head>`. Tambahkan `defer` pada skrip yang tidak dibutuhkan untuk tampilan awal. Pertimbangkan teknik CSS kritis. Periksa juga apakah font kustom menunda tampilnya teks.
 
-**Jika halaman terasa berat saat digunakan**, masalahnya biasanya ada pada JavaScript yang membebani prosesor. Gunakan panel Performance di DevTools untuk menemukan tugas panjang. Kurangi skrip pihak ketiga dan pecah pekerjaan berat menjadi bagian yang lebih kecil. Pembahasan teknik ini secara mendalam ada di bagian INP pada artikel [Core Web Vitals](/core-web-vitals-lcp-inp-cls/). Uji perbaikan di perangkat yang mewakili pengguna Anda.
+**Jika halaman terasa berat saat digunakan**, masalahnya biasanya ada pada JavaScript yang membebani prosesor. Gunakan panel Performance di DevTools untuk menemukan tugas panjang. Kurangi skrip pihak ketiga dan pecah pekerjaan berat menjadi bagian yang lebih kecil. Pembahasan teknik ini secara mendalam ada di bagian INP pada artikel Core Web Vitals. Uji perbaikan di perangkat yang mewakili pengguna Anda.
 
 Setelah menentukan fokus, buat daftar perbaikan dan perkirakan dampak serta usahanya. Kerjakan terlebih dahulu perbaikan yang dampaknya besar dan usahanya kecil. Contohnya adalah mengaktifkan kompresi, menghapus plugin yang tidak terpakai, atau mengecilkan gambar utama. Perbaikan yang lebih rumit, seperti mengubah arsitektur rendering, bisa dijadwalkan kemudian. Ukur kembali setelah setiap perbaikan agar Anda tahu dampaknya.
 
@@ -417,4 +417,4 @@ Bisa, terutama jika tema lama memuat banyak kode yang tidak digunakan. Namun, me
 
 Mempercepat loading website membutuhkan pendekatan menyeluruh dari sisi server hingga sisi browser. Mulailah dengan mengukur menggunakan PageSpeed Insights, WebPageTest, dan Chrome DevTools. Jika server lambat, perbaiki hosting, aktifkan caching, dan gunakan CDN. Kurangi ukuran halaman dengan kompresi, minifikasi, dan penghapusan kode yang tidak digunakan. Tunda skrip yang tidak penting, kendalikan skrip pihak ketiga, dan optimalkan font serta media.
 
-Tidak semua teknik harus diterapkan sekaligus. Susun prioritas berdasarkan hasil pengukuran, lalu kerjakan perbaikan yang paling berdampak terlebih dahulu. Setelah website cepat, jaga kecepatannya dengan anggaran kinerja, pengujian otomatis, dan pemantauan rutin. Untuk memahami metrik yang digunakan Google dalam menilai pengalaman halaman, baca artikel [Core Web Vitals](/core-web-vitals-lcp-inp-cls/). Karena gambar sering menjadi beban terbesar, lanjutkan dengan panduan [optimasi gambar website](/optimasi-gambar-website/).
+Tidak semua teknik harus diterapkan sekaligus. Susun prioritas berdasarkan hasil pengukuran, lalu kerjakan perbaikan yang paling berdampak terlebih dahulu. Setelah website cepat, jaga kecepatannya dengan anggaran kinerja, pengujian otomatis, dan pemantauan rutin. Untuk memahami metrik yang digunakan Google dalam menilai pengalaman halaman, baca artikel Core Web Vitals. Karena gambar sering menjadi beban terbesar, lanjutkan dengan panduan optimasi gambar website.

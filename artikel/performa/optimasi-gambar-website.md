@@ -47,7 +47,7 @@ Di banyak website, gambar menyumbang porsi terbesar dari total ukuran halaman. S
 
 Alasan pertama adalah kecepatan. Gambar berukuran besar membutuhkan waktu unduh yang lama, terutama di jaringan seluler. Semakin lama gambar diunduh, semakin lama pula halaman terasa siap. Pengunjung yang tidak sabar akan menutup halaman sebelum gambar selesai dimuat. Mengecilkan ukuran gambar adalah salah satu cara tercepat untuk membuat halaman terasa lebih ringan.
 
-Alasan kedua berkaitan dengan Core Web Vitals. Pada banyak halaman, elemen konten terbesar yang tampil di layar pertama adalah sebuah gambar. Gambar ini menentukan nilai Largest Contentful Paint atau LCP. Jika gambar tersebut lambat dimuat, nilai LCP akan buruk. Penjelasan lengkap tentang metrik ini dapat dibaca di artikel [Core Web Vitals](/core-web-vitals-lcp-inp-cls/).
+Alasan kedua berkaitan dengan Core Web Vitals. Pada banyak halaman, elemen konten terbesar yang tampil di layar pertama adalah sebuah gambar. Gambar ini menentukan nilai Largest Contentful Paint atau LCP. Jika gambar tersebut lambat dimuat, nilai LCP akan buruk. Penjelasan lengkap tentang metrik ini dapat dibaca di artikel Core Web Vitals.
 
 Alasan ketiga adalah penghematan kuota data pengunjung. Banyak pengguna internet di Indonesia mengandalkan paket data dengan kuota terbatas. Halaman yang memuat gambar berukuran besar menghabiskan kuota mereka dengan cepat. Pengunjung mungkin enggan kembali ke website yang terasa boros. Gambar yang dioptimasi menunjukkan bahwa Anda menghargai pengunjung.
 
@@ -206,7 +206,7 @@ Ada pengecualian untuk metadata tertentu. Profil warna kadang perlu dipertahanka
 
 Gambar jarang berubah setelah diunggah. Karena itu, gambar sangat cocok untuk disimpan lama di cache browser. Dengan cache yang tepat, pengunjung yang kembali tidak perlu mengunduh ulang gambar yang sama. Atur header `Cache-Control` dengan masa simpan yang panjang untuk file gambar. Jika gambar diganti, gunakan nama file baru agar browser mengunduh versi terbaru.
 
-Menyimpan gambar di CDN juga sangat dianjurkan. CDN menyajikan gambar dari server yang dekat dengan pengunjung. Hal ini mempercepat pengunduhan, terutama untuk pengunjung yang jauh dari server utama. Pengaturan cache dan CDN dibahas lebih lengkap di artikel [cara mempercepat loading website](/cara-mempercepat-loading-website/). Kombinasi gambar yang kecil dan pengiriman yang cepat memberikan hasil terbaik.
+Menyimpan gambar di CDN juga sangat dianjurkan. CDN menyajikan gambar dari server yang dekat dengan pengunjung. Hal ini mempercepat pengunduhan, terutama untuk pengunjung yang jauh dari server utama. Pengaturan cache dan CDN dibahas lebih lengkap di artikel cara mempercepat loading website. Kombinasi gambar yang kecil dan pengiriman yang cepat memberikan hasil terbaik.
 
 ## Otomatisasi Optimasi Gambar
 
@@ -456,4 +456,4 @@ Menyimpan gambar asli di tempat cadangan sangat dianjurkan. Gambar asli dibutuhk
 
 Optimasi gambar website adalah salah satu langkah paling efektif untuk membuat halaman lebih cepat dan ringan. Mulailah dengan memilih format yang tepat, seperti AVIF atau WebP untuk foto dan SVG untuk logo. Sesuaikan dimensi gambar dengan ukuran tampilan, kompres dengan tingkat kualitas yang wajar, dan sediakan versi responsif dengan `srcset`. Atur pemuatan dengan lazy load untuk gambar di bawah layar pertama, dan berikan prioritas pada gambar utama. Jangan lupa mencantumkan dimensi, menghapus metadata, dan mengatur cache.
 
-Selain kecepatan, perhatikan juga sisi SEO dan aksesibilitas. Gunakan nama file yang deskriptif, teks alternatif yang tepat, dan gambar orisinal yang relevan dengan konten. Untuk website besar, otomatiskan proses optimasi agar setiap gambar baru langsung optimal. Setelah gambar beres, lanjutkan dengan teknik lain di artikel [cara mempercepat loading website](/cara-mempercepat-loading-website/). Pantau hasilnya melalui metrik di artikel [Core Web Vitals](/core-web-vitals-lcp-inp-cls/) untuk memastikan pengalaman pengunjung terus membaik.
+Selain kecepatan, perhatikan juga sisi SEO dan aksesibilitas. Gunakan nama file yang deskriptif, teks alternatif yang tepat, dan gambar orisinal yang relevan dengan konten. Untuk website besar, otomatiskan proses optimasi agar setiap gambar baru langsung optimal. Setelah gambar beres, lanjutkan dengan teknik lain di artikel cara mempercepat loading website. Pantau hasilnya melalui metrik di artikel Core Web Vitals untuk memastikan pengalaman pengunjung terus membaik.

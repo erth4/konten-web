@@ -22,7 +22,7 @@ lang: "id"
 
 Banyak penulis merasa bingung ketika diminta membuat artikel yang "SEO friendly". Sebagian mengira artinya harus menyebut kata kunci sebanyak mungkin. Sebagian lain mengira artikel harus sepanjang mungkin agar disukai Google. Kedua anggapan itu kurang tepat. Artikel SEO friendly pada dasarnya adalah artikel yang mudah ditemukan, mudah dipahami mesin pencari, dan benar-benar membantu pembacanya.
 
-Panduan ini menjelaskan **cara menulis artikel SEO friendly** dari awal hingga siap terbit. Pembahasannya mencakup penyusunan brief, pembuatan kerangka, penulisan judul dan pembuka, penyusunan isi yang mudah dibaca, hingga penyuntingan akhir. Anda juga akan mendapatkan contoh, templat, dan daftar periksa yang bisa langsung dipakai. Panduan ini cocok untuk blogger, penulis lepas, tim konten perusahaan, maupun pemilik usaha yang mengelola website sendiri. Jika Anda belum memahami konsep dasar SEO, bacalah terlebih dahulu artikel [apa itu SEO](/apa-itu-seo-pengertian-cara-kerja-jenis/).
+Panduan ini menjelaskan **cara menulis artikel SEO friendly** dari awal hingga siap terbit. Pembahasannya mencakup penyusunan brief, pembuatan kerangka, penulisan judul dan pembuka, penyusunan isi yang mudah dibaca, hingga penyuntingan akhir. Anda juga akan mendapatkan contoh, templat, dan daftar periksa yang bisa langsung dipakai. Panduan ini cocok untuk blogger, penulis lepas, tim konten perusahaan, maupun pemilik usaha yang mengelola website sendiri. Jika Anda belum memahami konsep dasar SEO, bacalah terlebih dahulu artikel apa itu SEO.
 
 ## Daftar Isi
 
@@ -60,7 +60,7 @@ Penting juga untuk membedakan artikel SEO friendly dengan artikel yang dioptimas
 
 Sebelum mulai menulis, ada baiknya Anda mengenali ciri-ciri artikel yang dianggap SEO friendly. Ciri-ciri ini bisa dijadikan tolok ukur saat menulis maupun saat menyunting. Tidak semua ciri harus terpenuhi secara sempurna. Namun, semakin banyak ciri yang terpenuhi, semakin besar peluang artikel mendapat posisi yang baik. Berikut ciri-ciri utamanya.
 
-**Sesuai dengan maksud pencarian.** Artikel yang baik memberikan apa yang dicari oleh orang yang mengetik kata kunci tertentu. Jika orang mencari panduan langkah demi langkah, artikel harus berisi langkah-langkah yang jelas. Jika orang mencari perbandingan, artikel harus menyajikan perbandingan yang adil. Kesesuaian dengan maksud pencarian adalah syarat paling dasar. Cara mengenali maksud pencarian dibahas lebih rinci di artikel [riset keyword](/riset-keyword-cara-menemukan-kata-kunci/).
+**Sesuai dengan maksud pencarian.** Artikel yang baik memberikan apa yang dicari oleh orang yang mengetik kata kunci tertentu. Jika orang mencari panduan langkah demi langkah, artikel harus berisi langkah-langkah yang jelas. Jika orang mencari perbandingan, artikel harus menyajikan perbandingan yang adil. Kesesuaian dengan maksud pencarian adalah syarat paling dasar. Cara mengenali maksud pencarian dibahas lebih rinci di artikel riset keyword.
 
 **Menjawab pertanyaan dengan tuntas.** Pembaca seharusnya tidak perlu kembali ke hasil pencarian untuk mencari jawaban lain setelah membaca artikel Anda. Artikel yang tuntas membahas pertanyaan utama sekaligus pertanyaan lanjutan yang biasanya muncul. Ketuntasan tidak sama dengan panjang. Artikel pendek bisa tuntas jika topiknya sederhana, sedangkan topik rumit membutuhkan pembahasan lebih panjang.
 
@@ -194,7 +194,7 @@ Sebagai contoh, artikel tentang cara membuat sabun cair secara alami akan menyeb
 
 ### Tambahkan Tautan Internal dan Eksternal
 
-Tautan internal menghubungkan artikel dengan halaman lain di website Anda. Tambahkan tautan ke artikel terkait yang membantu pembaca memahami topik lebih dalam. Gunakan teks jangkar yang menggambarkan isi halaman tujuan. Hindari teks jangkar umum seperti "klik di sini" atau "baca selengkapnya". Tautan internal juga membantu artikel baru lebih cepat ditemukan, seperti dijelaskan dalam artikel [cara agar artikel cepat terindeks Google](/cara-agar-artikel-cepat-terindeks-google/).
+Tautan internal menghubungkan artikel dengan halaman lain di website Anda. Tambahkan tautan ke artikel terkait yang membantu pembaca memahami topik lebih dalam. Gunakan teks jangkar yang menggambarkan isi halaman tujuan. Hindari teks jangkar umum seperti "klik di sini" atau "baca selengkapnya". Tautan internal juga membantu artikel baru lebih cepat ditemukan, seperti dijelaskan dalam artikel cara agar artikel cepat terindeks Google.
 
 Tautan eksternal mengarah ke website lain. Tautan ini berguna untuk merujuk sumber data, dokumentasi resmi, atau penelitian. Merujuk sumber kredibel menunjukkan bahwa klaim Anda dapat dipertanggungjawabkan. Jangan khawatir bahwa tautan eksternal akan "membocorkan" peringkat. Yang penting, pilih sumber yang relevan dan terpercaya.
 
@@ -238,11 +238,11 @@ Untuk pertanyaan definisi, tulis jawaban dalam satu paragraf pendek tepat di baw
 
 ## Menunjukkan Pengalaman dan Kredibilitas
 
-Pembaca dan mesin pencari sama-sama menghargai konten yang ditulis oleh orang yang memahami topiknya. Google merangkum aspek ini dalam konsep E-E-A-T, yaitu pengalaman, keahlian, otoritas, dan kepercayaan. Konsep ini dijelaskan lebih rinci di artikel [apa itu SEO](/apa-itu-seo-pengertian-cara-kerja-jenis/). Dalam praktik menulis, ada beberapa cara konkret untuk menunjukkan kredibilitas. Cara-cara ini sekaligus membuat artikel lebih berharga bagi pembaca.
+Pembaca dan mesin pencari sama-sama menghargai konten yang ditulis oleh orang yang memahami topiknya. Google merangkum aspek ini dalam konsep E-E-A-T, yaitu pengalaman, keahlian, otoritas, dan kepercayaan. Konsep ini dijelaskan lebih rinci di artikel apa itu SEO. Dalam praktik menulis, ada beberapa cara konkret untuk menunjukkan kredibilitas. Cara-cara ini sekaligus membuat artikel lebih berharga bagi pembaca.
 
 **Ceritakan pengalaman nyata.** Jika Anda pernah mencoba produk, menjalankan proses, atau menghadapi masalah yang dibahas, ceritakan pengalaman tersebut. Sebutkan apa yang berhasil, apa yang gagal, dan apa yang Anda pelajari. Pengalaman nyata sulit ditiru oleh artikel yang hanya merangkum sumber lain. Detail kecil dari pengalaman langsung sering menjadi informasi paling berguna bagi pembaca. Misalnya, kesalahan takaran yang pernah Anda lakukan saat pertama kali membuat sabun.
 
-**Sertakan bukti visual.** Foto asli, tangkapan layar, atau video yang Anda buat sendiri memperkuat kredibilitas. Bukti visual menunjukkan bahwa Anda benar-benar melakukan apa yang dijelaskan. Hindari menggunakan gambar stok untuk menggambarkan proses yang seharusnya Anda dokumentasikan sendiri. Beri keterangan yang jelas pada setiap gambar. Optimasi gambar tersebut agar tidak memperlambat halaman, seperti dijelaskan dalam artikel [optimasi gambar website](/optimasi-gambar-website/).
+**Sertakan bukti visual.** Foto asli, tangkapan layar, atau video yang Anda buat sendiri memperkuat kredibilitas. Bukti visual menunjukkan bahwa Anda benar-benar melakukan apa yang dijelaskan. Hindari menggunakan gambar stok untuk menggambarkan proses yang seharusnya Anda dokumentasikan sendiri. Beri keterangan yang jelas pada setiap gambar. Optimasi gambar tersebut agar tidak memperlambat halaman, seperti dijelaskan dalam artikel optimasi gambar website.
 
 **Rujuk sumber yang kredibel.** Untuk data, statistik, atau klaim penting, cantumkan sumbernya. Utamakan sumber primer seperti dokumen resmi, publikasi lembaga, atau penelitian. Hindari mengutip angka dari artikel lain tanpa memeriksa sumber aslinya. Angka yang tidak jelas asal-usulnya sering kali keliru atau sudah usang. Jika tidak menemukan sumber yang dapat dipercaya, lebih baik tidak mencantumkan angka tersebut.
 
@@ -296,7 +296,7 @@ Alat penulisan berbasis AI kini banyak digunakan oleh penulis konten. Alat ini b
 
 **Sesuaikan gaya dan bahasa.** Hasil tulisan AI sering memiliki pola kalimat yang mudah dikenali. Contohnya adalah pembuka yang terlalu umum, frasa berulang, dan kesimpulan yang klise. Sunting hasilnya agar sesuai dengan gaya bahasa merek atau gaya pribadi Anda. Pastikan bahasa Indonesia yang digunakan alami dan tidak terasa seperti terjemahan. Pembaca akan lebih nyaman dengan tulisan yang terdengar seperti manusia sungguhan.
 
-**Jaga kerahasiaan data.** Jangan memasukkan data pelanggan, dokumen internal, atau informasi rahasia ke alat AI tanpa izin. Pahami kebijakan privasi alat yang Anda gunakan. Ikuti kebijakan perusahaan tentang penggunaan AI. Pembahasan lebih lanjut tentang menjaga data saat memakai AI tersedia di artikel [keamanan siber](/keamanan-siber-cara-melindungi-data-pribadi/). Kebiasaan ini melindungi Anda dan organisasi dari risiko kebocoran.
+**Jaga kerahasiaan data.** Jangan memasukkan data pelanggan, dokumen internal, atau informasi rahasia ke alat AI tanpa izin. Pahami kebijakan privasi alat yang Anda gunakan. Ikuti kebijakan perusahaan tentang penggunaan AI. Pembahasan lebih lanjut tentang menjaga data saat memakai AI tersedia di artikel keamanan siber. Kebiasaan ini melindungi Anda dan organisasi dari risiko kebocoran.
 
 ## Memperbarui Artikel Lama
 
@@ -372,4 +372,4 @@ Perbarui artikel ketika informasinya sudah usang, trafiknya menurun, atau pering
 
 Menulis artikel SEO friendly bukan tentang mengakali mesin pencari, melainkan tentang menyajikan jawaban terbaik bagi pembaca dalam bentuk yang mudah dipahami. Prosesnya dimulai dari persiapan yang matang, yaitu menentukan kata kunci, mempelajari hasil pencarian, mengenali pembaca, dan menyusun brief. Setelah itu, susun kerangka yang logis, tulis judul yang jujur dan menarik, serta buat pembuka yang langsung ke inti. Isi artikel ditulis dengan jelas, disertai contoh konkret, pengalaman nyata, dan tautan yang relevan. Penyuntingan dalam beberapa putaran memastikan artikel rapi, akurat, dan siap diterbitkan.
 
-Jadikan daftar periksa di atas sebagai kebiasaan setiap kali menulis. Pantau kinerja artikel setelah terbit dan perbarui secara berkala agar tetap relevan. Untuk memperkuat otoritas artikel yang sudah Anda tulis, pelajari strategi di artikel [backlink](/backlink-pengertian-cara-mendapatkan/). Jika bisnis Anda melayani pelanggan di wilayah tertentu, lengkapi strategi konten dengan panduan [SEO lokal](/seo-lokal-google-business-profile/).
+Jadikan daftar periksa di atas sebagai kebiasaan setiap kali menulis. Pantau kinerja artikel setelah terbit dan perbarui secara berkala agar tetap relevan. Untuk memperkuat otoritas artikel yang sudah Anda tulis, pelajari strategi di artikel backlink. Jika bisnis Anda melayani pelanggan di wilayah tertentu, lengkapi strategi konten dengan panduan SEO lokal.

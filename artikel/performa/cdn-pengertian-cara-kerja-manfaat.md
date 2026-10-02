@@ -22,7 +22,7 @@ lang: "id"
 
 Bayangkan website Anda di-*hosting* di sebuah server di Jakarta. Pengunjung dari Jakarta bisa membukanya dengan cepat. Namun, pengunjung dari Makassar, Medan, atau bahkan luar negeri harus menunggu lebih lama karena data menempuh jarak yang lebih jauh. Semakin jauh jaraknya, semakin terasa keterlambatannya, terutama pada jaringan seluler. Masalah inilah yang diselesaikan oleh **CDN** atau *content delivery network*.
 
-Artikel ini menjelaskan apa itu CDN, bagaimana cara kerjanya, dan mengapa teknologi ini penting bagi hampir semua website modern. Anda akan mempelajari istilah-istilah penting seperti edge server, origin, cache hit, dan TTL. Kami juga membahas manfaat CDN untuk kecepatan, ketersediaan, dan keamanan. Di bagian praktis, Anda akan menemukan langkah memasang CDN, cara mengatur cache, dan kesalahan yang sering terjadi. Pembahasan ini memperdalam teknik CDN yang disinggung singkat di artikel [cara mempercepat loading website](/cara-mempercepat-loading-website/).
+Artikel ini menjelaskan apa itu CDN, bagaimana cara kerjanya, dan mengapa teknologi ini penting bagi hampir semua website modern. Anda akan mempelajari istilah-istilah penting seperti edge server, origin, cache hit, dan TTL. Kami juga membahas manfaat CDN untuk kecepatan, ketersediaan, dan keamanan. Di bagian praktis, Anda akan menemukan langkah memasang CDN, cara mengatur cache, dan kesalahan yang sering terjadi. Pembahasan ini memperdalam teknik CDN yang disinggung singkat di artikel cara mempercepat loading website.
 
 ## Daftar Isi
 
@@ -126,7 +126,7 @@ CDN memberikan banyak manfaat yang dirasakan oleh pengunjung maupun pemilik webs
 
 **Menangani lonjakan trafik.** Lonjakan trafik bisa terjadi saat promo besar, artikel viral, atau liputan media. Tanpa CDN, server asal bisa kewalahan dan website tidak dapat diakses. CDN menyerap sebagian besar lonjakan tersebut melalui cache yang tersebar. Server asal hanya menerima sebagian kecil permintaan. Dengan begitu, website tetap dapat diakses meskipun pengunjung melonjak drastis.
 
-**Meningkatkan keamanan.** Banyak penyedia CDN menyediakan fitur keamanan bawaan. Fitur tersebut antara lain perlindungan dari serangan DDoS, *web application firewall*, dan pengelolaan bot. CDN juga menyembunyikan alamat IP origin dari publik jika dikonfigurasi dengan benar. Sertifikat HTTPS biasanya disediakan dan diperbarui secara otomatis. Fitur-fitur ini memberikan lapisan perlindungan tambahan bagi website, seperti dibahas pula di artikel [keamanan siber](/keamanan-siber-cara-melindungi-data-pribadi/).
+**Meningkatkan keamanan.** Banyak penyedia CDN menyediakan fitur keamanan bawaan. Fitur tersebut antara lain perlindungan dari serangan DDoS, *web application firewall*, dan pengelolaan bot. CDN juga menyembunyikan alamat IP origin dari publik jika dikonfigurasi dengan benar. Sertifikat HTTPS biasanya disediakan dan diperbarui secara otomatis. Fitur-fitur ini memberikan lapisan perlindungan tambahan bagi website, seperti dibahas pula di artikel keamanan siber.
 
 **Mendukung protokol modern.** Penyedia CDN umumnya cepat mengadopsi protokol terbaru seperti HTTP/2, HTTP/3, dan TLS 1.3. Website Anda bisa langsung memanfaatkan protokol tersebut tanpa perlu mengubah konfigurasi server asal. Kompresi Brotli juga sering tersedia secara otomatis. Protokol modern ini mempercepat pemuatan, terutama di jaringan seluler yang tidak stabil. Bagi pemilik website, ini adalah peningkatan yang diperoleh dengan usaha minimal.
 
@@ -214,7 +214,7 @@ Hal ketiga adalah mekanisme pembaruan. Ketika artikel diperbarui atau harga prod
 
 CDN modern menawarkan jauh lebih banyak fitur daripada sekadar menyimpan file di cache. Banyak penyedia menjadikan jaringan mereka sebagai platform untuk menjalankan berbagai layanan di dekat pengguna. Fitur-fitur ini dapat meningkatkan kinerja dan keamanan tanpa mengubah server asal. Tidak semua fitur dibutuhkan oleh setiap website. Berikut beberapa fitur yang sering ditemui.
 
-**Optimasi gambar otomatis.** Beberapa CDN dapat mengubah ukuran, mengompres, dan mengonversi format gambar secara otomatis. Browser yang mendukung WebP atau AVIF akan menerima format tersebut, sedangkan browser lain menerima format standar. Fitur ini menghemat banyak pekerjaan manual. Anda cukup menyimpan gambar asli di origin. Panduan lengkap tentang optimasi gambar ada di artikel [optimasi gambar website](/optimasi-gambar-website/).
+**Optimasi gambar otomatis.** Beberapa CDN dapat mengubah ukuran, mengompres, dan mengonversi format gambar secara otomatis. Browser yang mendukung WebP atau AVIF akan menerima format tersebut, sedangkan browser lain menerima format standar. Fitur ini menghemat banyak pekerjaan manual. Anda cukup menyimpan gambar asli di origin. Panduan lengkap tentang optimasi gambar ada di artikel optimasi gambar website.
 
 **Web application firewall.** WAF menyaring permintaan yang mencurigakan sebelum mencapai server asal. WAF dapat memblokir pola serangan umum, seperti injeksi SQL dan skrip lintas situs. Banyak penyedia menyediakan aturan bawaan yang diperbarui secara berkala. Anda juga bisa membuat aturan khusus, misalnya membatasi akses ke halaman administrator. WAF sangat membantu untuk website yang menggunakan CMS populer yang sering menjadi sasaran serangan.
 
@@ -289,7 +289,7 @@ Fitur tambahan seperti optimasi gambar, WAF lanjutan, atau komputasi di edge ser
 
 Istilah CDN sering tertukar dengan hosting dan layanan cloud. Ketiganya memang berkaitan, tetapi memiliki peran yang berbeda dalam infrastruktur website. Hosting adalah tempat aplikasi website dijalankan dan file aslinya disimpan. Layanan cloud adalah penyediaan sumber daya komputasi sesuai permintaan, yang bisa digunakan sebagai hosting maupun keperluan lain. CDN adalah lapisan pengiriman yang mempercepat dan melindungi akses ke konten.
 
-Ketiganya sering digunakan bersama. Contohnya, aplikasi dijalankan di server cloud, gambar disimpan di layanan penyimpanan objek, dan semuanya dikirim kepada pengguna melalui CDN. Banyak penyedia cloud besar juga memiliki layanan CDN sendiri yang terintegrasi. Memahami peran masing-masing membantu Anda merancang arsitektur yang tepat. Penjelasan tentang layanan cloud dapat dibaca di artikel [cloud computing](/cloud-computing-pengertian-jenis-manfaat/).
+Ketiganya sering digunakan bersama. Contohnya, aplikasi dijalankan di server cloud, gambar disimpan di layanan penyimpanan objek, dan semuanya dikirim kepada pengguna melalui CDN. Banyak penyedia cloud besar juga memiliki layanan CDN sendiri yang terintegrasi. Memahami peran masing-masing membantu Anda merancang arsitektur yang tepat. Penjelasan tentang layanan cloud dapat dibaca di artikel cloud computing.
 
 ## CDN dan Privasi Data
 
@@ -319,7 +319,7 @@ Setelah CDN terpasang, ukur dampaknya untuk memastikan investasi Anda memberikan
 
 **Time to First Byte.** TTFB menunjukkan seberapa cepat server merespons permintaan pertama. Jika halaman HTML disimpan di cache CDN, TTFB biasanya turun signifikan. Jika hanya file statis yang disimpan, TTFB halaman mungkin tidak banyak berubah. Ukur TTFB dari beberapa lokasi menggunakan alat seperti WebPageTest. Bandingkan hasil dari kota yang dekat dan jauh dari origin.
 
-**Core Web Vitals.** Pantau laporan Core Web Vitals di Search Console dan data pengguna nyata di PageSpeed Insights. Perbaikan TTFB dan kecepatan pengiriman file biasanya berdampak positif pada LCP. Ingat bahwa data pengguna nyata membutuhkan waktu beberapa minggu untuk mencerminkan perubahan. Cara membaca laporan tersebut dijelaskan di artikel [cara membaca PageSpeed Insights](/cara-membaca-pagespeed-insights/). Catat tanggal pemasangan CDN agar mudah membandingkan data.
+**Core Web Vitals.** Pantau laporan Core Web Vitals di Search Console dan data pengguna nyata di PageSpeed Insights. Perbaikan TTFB dan kecepatan pengiriman file biasanya berdampak positif pada LCP. Ingat bahwa data pengguna nyata membutuhkan waktu beberapa minggu untuk mencerminkan perubahan. Cara membaca laporan tersebut dijelaskan di artikel cara membaca PageSpeed Insights. Catat tanggal pemasangan CDN agar mudah membandingkan data.
 
 **Cache hit ratio dan beban origin.** Panel CDN biasanya menampilkan persentase permintaan yang dilayani dari cache. Rasio yang tinggi menunjukkan CDN bekerja efektif. Pantau juga penggunaan sumber daya di server asal, seperti prosesor dan bandwidth. Penurunan beban origin menunjukkan bahwa CDN menyerap sebagian besar lalu lintas. Jika rasio rendah, tinjau kembali aturan dan header cache.
 
@@ -369,4 +369,4 @@ Dalam kondisi tertentu, bisa. Contohnya, jika hampir semua permintaan mengalami 
 
 CDN adalah jaringan server tersebar yang mengirimkan konten website dari lokasi terdekat dengan pengguna. Cara kerjanya bertumpu pada cache di edge server, yang mengambil konten dari origin saat dibutuhkan dan menyimpannya untuk permintaan berikutnya. Manfaat utamanya adalah kecepatan, berkurangnya beban server asal, ketahanan terhadap lonjakan trafik, dan keamanan tambahan. Pemasangan CDN relatif mudah, tetapi aturan cache perlu diatur dengan cermat. Konten statis bisa disimpan lama, halaman publik bisa disimpan dengan TTL yang wajar, sedangkan halaman personal harus selalu dikecualikan.
 
-Hindari kesalahan umum seperti menyimpan konten personal, mode HTTPS yang tidak aman, dan alamat origin yang terbuka. Ukur dampak CDN melalui TTFB, Core Web Vitals, dan cache hit ratio. Untuk membaca dampak tersebut dengan benar, gunakan panduan [cara membaca PageSpeed Insights](/cara-membaca-pagespeed-insights/). Jika halaman dinamis Anda masih lambat meski sudah memakai CDN, periksa kinerja basis data melalui artikel [optimasi database MySQL](/optimasi-database-mysql/).
+Hindari kesalahan umum seperti menyimpan konten personal, mode HTTPS yang tidak aman, dan alamat origin yang terbuka. Ukur dampak CDN melalui TTFB, Core Web Vitals, dan cache hit ratio. Untuk membaca dampak tersebut dengan benar, gunakan panduan cara membaca PageSpeed Insights. Jika halaman dinamis Anda masih lambat meski sudah memakai CDN, periksa kinerja basis data melalui artikel optimasi database MySQL.

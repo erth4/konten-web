@@ -101,7 +101,7 @@ Tidak semua halaman pasti dirayapi. Halaman yang diblokir oleh file robots.txt, 
 
 Setelah dirayapi, Google menganalisis isi halaman untuk memahami topiknya. Google memeriksa teks, judul, gambar, video, dan elemen lain di halaman. Google juga menentukan apakah halaman tersebut duplikat dari halaman lain. Jika ada beberapa halaman yang mirip, Google akan memilih satu versi sebagai halaman kanonis. Informasi tentang halaman yang dianggap layak kemudian disimpan di indeks Google.
 
-Penting untuk diketahui bahwa tidak semua halaman yang dirayapi akan diindeks. Google bisa memutuskan tidak mengindeks halaman yang kualitasnya rendah atau isinya terlalu mirip dengan halaman lain. Halaman dengan tag `noindex` juga tidak akan dimasukkan ke indeks. Pembahasan lebih rinci tentang hal ini tersedia di artikel [cara agar artikel cepat terindeks Google](/cara-agar-artikel-cepat-terindeks-google/). Di sana dijelaskan langkah praktis untuk mempercepat dan memeriksa status indeks.
+Penting untuk diketahui bahwa tidak semua halaman yang dirayapi akan diindeks. Google bisa memutuskan tidak mengindeks halaman yang kualitasnya rendah atau isinya terlalu mirip dengan halaman lain. Halaman dengan tag `noindex` juga tidak akan dimasukkan ke indeks. Pembahasan lebih rinci tentang hal ini tersedia di artikel cara agar artikel cepat terindeks Google. Di sana dijelaskan langkah praktis untuk mempercepat dan memeriksa status indeks.
 
 ### 3. Ranking (Penyajian Hasil)
 
@@ -127,7 +127,7 @@ Google ingin menampilkan konten yang akurat, orisinal, dan bermanfaat. Konten ya
 
 ### Kegunaan Halaman
 
-Halaman yang mudah digunakan lebih disukai oleh pengguna dan mesin pencari. Faktor kegunaan mencakup kecepatan muat, tampilan yang baik di ponsel, dan keamanan dengan HTTPS. Google juga menilai pengalaman halaman melalui metrik Core Web Vitals. Metrik ini mengukur kecepatan tampil, responsivitas, dan stabilitas tata letak. Penjelasan lengkapnya dapat Anda baca di artikel [Core Web Vitals](/core-web-vitals-lcp-inp-cls/).
+Halaman yang mudah digunakan lebih disukai oleh pengguna dan mesin pencari. Faktor kegunaan mencakup kecepatan muat, tampilan yang baik di ponsel, dan keamanan dengan HTTPS. Google juga menilai pengalaman halaman melalui metrik Core Web Vitals. Metrik ini mengukur kecepatan tampil, responsivitas, dan stabilitas tata letak. Penjelasan lengkapnya dapat Anda baca di artikel Core Web Vitals.
 
 ### Konteks dan Pengaturan Pengguna
 
@@ -149,11 +149,11 @@ SEO on-page adalah optimasi yang dilakukan langsung di dalam halaman website. Fo
 
 **URL yang ramah SEO.** URL sebaiknya pendek, deskriptif, dan menggunakan kata-kata yang mudah dibaca. Gunakan tanda hubung untuk memisahkan kata. Hindari URL yang berisi deretan angka atau parameter yang tidak bermakna. URL seperti `/cara-membuat-kopi-susu/` jauh lebih jelas dibanding `/p?id=8231`. URL yang jelas juga lebih meyakinkan saat dibagikan.
 
-**Konten dan kata kunci.** Konten harus menjawab pertanyaan pengguna secara lengkap dan akurat. Kata kunci utama sebaiknya muncul di judul, paragraf awal, dan beberapa subjudul secara alami. Gunakan juga variasi kata kunci dan istilah terkait. Jangan memaksakan kata kunci hingga kalimat terasa janggal. Pembahasan cara menemukan kata kunci yang tepat ada di artikel [riset keyword](/riset-keyword-cara-menemukan-kata-kunci/).
+**Konten dan kata kunci.** Konten harus menjawab pertanyaan pengguna secara lengkap dan akurat. Kata kunci utama sebaiknya muncul di judul, paragraf awal, dan beberapa subjudul secara alami. Gunakan juga variasi kata kunci dan istilah terkait. Jangan memaksakan kata kunci hingga kalimat terasa janggal. Pembahasan cara menemukan kata kunci yang tepat ada di artikel riset keyword.
 
 **Tautan internal.** Tautan internal menghubungkan satu halaman dengan halaman lain di website yang sama. Tautan ini membantu pembaca menemukan konten terkait. Bagi mesin pencari, tautan internal membantu memahami struktur website dan menemukan halaman baru. Gunakan teks jangkar (*anchor text*) yang deskriptif, bukan sekadar "klik di sini". Halaman penting sebaiknya mendapat lebih banyak tautan internal.
 
-**Optimasi gambar.** Gambar membuat konten lebih menarik, tetapi bisa memperlambat halaman jika tidak dioptimasi. Kompres gambar dan gunakan format modern agar ukurannya kecil. Tambahkan teks alternatif (*alt text*) yang menjelaskan isi gambar. Teks alternatif membantu pengguna tunanetra dan membantu Google memahami gambar. Panduan lengkapnya ada di artikel [optimasi gambar website](/optimasi-gambar-website/).
+**Optimasi gambar.** Gambar membuat konten lebih menarik, tetapi bisa memperlambat halaman jika tidak dioptimasi. Kompres gambar dan gunakan format modern agar ukurannya kecil. Tambahkan teks alternatif (*alt text*) yang menjelaskan isi gambar. Teks alternatif membantu pengguna tunanetra dan membantu Google memahami gambar. Panduan lengkapnya ada di artikel optimasi gambar website.
 
 ### 2. SEO Off-Page
 
@@ -167,7 +167,7 @@ Selain backlink, SEO off-page juga mencakup penyebutan merek di internet. Ulasan
 
 Technical SEO adalah optimasi aspek teknis website agar mudah dirayapi, diindeks, dan digunakan. Jenis SEO ini sering tidak terlihat oleh pengunjung, tetapi dampaknya besar. Masalah teknis kecil bisa membuat ratusan halaman tidak terindeks. Technical SEO biasanya melibatkan kerja sama antara penulis konten dan pengembang web. Berikut elemen-elemen utama dalam technical SEO.
 
-**Kecepatan website.** Website yang lambat membuat pengunjung pergi sebelum halaman selesai dimuat. Kecepatan juga menjadi bagian dari sinyal pengalaman halaman. Optimasi kecepatan meliputi kompresi file, *caching*, optimasi gambar, dan pengurangan skrip yang tidak perlu. Panduan langkah demi langkahnya ada di artikel [cara mempercepat loading website](/cara-mempercepat-loading-website/). Perbaikan kecepatan hampir selalu memberi dampak positif bagi pengunjung.
+**Kecepatan website.** Website yang lambat membuat pengunjung pergi sebelum halaman selesai dimuat. Kecepatan juga menjadi bagian dari sinyal pengalaman halaman. Optimasi kecepatan meliputi kompresi file, *caching*, optimasi gambar, dan pengurangan skrip yang tidak perlu. Panduan langkah demi langkahnya ada di artikel cara mempercepat loading website. Perbaikan kecepatan hampir selalu memberi dampak positif bagi pengunjung.
 
 **Ramah perangkat seluler.** Google menggunakan pengindeksan yang mengutamakan versi seluler (*mobile-first indexing*). Artinya, Google terutama menilai versi halaman yang ditampilkan di ponsel. Website harus menggunakan desain responsif yang menyesuaikan ukuran layar. Teks harus mudah dibaca tanpa perlu diperbesar. Tombol dan tautan juga harus cukup besar untuk disentuh dengan jari.
 
@@ -349,4 +349,4 @@ Tidak ada jumlah kata yang ideal untuk semua topik. Google tidak memberi peringk
 
 SEO adalah upaya membuat website mudah ditemukan, dipahami, dan dipercaya oleh mesin pencari serta pengguna. Mesin pencari bekerja melalui tahap perayapan, pengindeksan, dan penyajian hasil. Peringkat dipengaruhi oleh relevansi, kualitas, kegunaan halaman, dan konteks pengguna. SEO terdiri dari beberapa jenis, yaitu on-page, off-page, teknis, dan lokal, yang semuanya saling melengkapi. Praktik white hat yang berfokus pada pengguna adalah satu-satunya pendekatan yang aman untuk jangka panjang.
 
-Mulailah dari langkah sederhana: pasang Search Console, perbaiki fondasi teknis, lakukan riset kata kunci, dan tulis konten yang benar-benar membantu. Ukur hasilnya secara rutin dan terus lakukan perbaikan. Hasil SEO memang tidak instan, tetapi manfaatnya bisa dirasakan dalam waktu lama. Untuk langkah berikutnya, pelajari cara menemukan kata kunci di panduan [riset keyword](/riset-keyword-cara-menemukan-kata-kunci/). Setelah itu, pastikan konten baru Anda cepat masuk indeks dengan membaca [cara agar artikel cepat terindeks Google](/cara-agar-artikel-cepat-terindeks-google/).
+Mulailah dari langkah sederhana: pasang Search Console, perbaiki fondasi teknis, lakukan riset kata kunci, dan tulis konten yang benar-benar membantu. Ukur hasilnya secara rutin dan terus lakukan perbaikan. Hasil SEO memang tidak instan, tetapi manfaatnya bisa dirasakan dalam waktu lama. Untuk langkah berikutnya, pelajari cara menemukan kata kunci di panduan riset keyword. Setelah itu, pastikan konten baru Anda cepat masuk indeks dengan membaca cara agar artikel cepat terindeks Google.

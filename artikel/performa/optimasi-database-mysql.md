@@ -57,7 +57,7 @@ Masalah basis data juga cenderung memburuk seiring waktu. Query yang cepat saat 
 
 Basis data yang lambat juga memengaruhi kapasitas server secara keseluruhan. Query berat memakan prosesor, memori, dan akses disk. Saat banyak pengunjung datang bersamaan, query-query tersebut saling berebut sumber daya. Akibatnya, semua permintaan menjadi lambat, termasuk yang sebenarnya ringan. Dalam kondisi terburuk, server basis data bisa kewalahan dan website tidak dapat diakses.
 
-Dari sisi pengalaman pengguna, dampak basis data terlihat pada metrik *Time to First Byte*. Metrik ini mengukur waktu hingga browser menerima byte pertama dari server. TTFB yang tinggi akan menunda semua tahap berikutnya, termasuk tampilnya konten utama. Penjelasan tentang metrik ini dapat dibaca di artikel [Core Web Vitals](/core-web-vitals-lcp-inp-cls/). Caching halaman dan CDN memang bisa menutupi masalah ini untuk halaman publik, tetapi halaman dinamis tetap bergantung pada kecepatan basis data.
+Dari sisi pengalaman pengguna, dampak basis data terlihat pada metrik *Time to First Byte*. Metrik ini mengukur waktu hingga browser menerima byte pertama dari server. TTFB yang tinggi akan menunda semua tahap berikutnya, termasuk tampilnya konten utama. Penjelasan tentang metrik ini dapat dibaca di artikel Core Web Vitals. Caching halaman dan CDN memang bisa menutupi masalah ini untuk halaman publik, tetapi halaman dinamis tetap bergantung pada kecepatan basis data.
 
 ## Langkah Pertama: Ukur Sebelum Mengoptimasi
 
@@ -286,7 +286,7 @@ Query yang paling cepat adalah query yang tidak perlu dijalankan. Banyak data di
 
 **Object cache.** Sistem seperti Redis atau Memcached menyimpan hasil query atau objek aplikasi di memori. Aplikasi memeriksa cache terlebih dahulu sebelum menjalankan query. Jika data ditemukan, query ke basis data tidak perlu dijalankan. Jika tidak, aplikasi menjalankan query lalu menyimpan hasilnya di cache. Atur masa berlaku yang sesuai dan hapus cache ketika data aslinya berubah.
 
-**Caching halaman.** Untuk halaman publik yang sama bagi semua pengunjung, seluruh halaman HTML bisa disimpan dalam cache. Dengan cara ini, tidak ada query basis data yang dijalankan untuk sebagian besar kunjungan. Caching halaman bisa dilakukan di server maupun di CDN. Penjelasan tentang caching di CDN dapat dibaca di artikel [CDN](/cdn-pengertian-cara-kerja-manfaat/). Pendekatan ini sangat efektif untuk blog dan website berita.
+**Caching halaman.** Untuk halaman publik yang sama bagi semua pengunjung, seluruh halaman HTML bisa disimpan dalam cache. Dengan cara ini, tidak ada query basis data yang dijalankan untuk sebagian besar kunjungan. Caching halaman bisa dilakukan di server maupun di CDN. Penjelasan tentang caching di CDN dapat dibaca di artikel CDN. Pendekatan ini sangat efektif untuk blog dan website berita.
 
 **Tabel ringkasan.** Untuk laporan atau statistik yang membutuhkan perhitungan berat, pertimbangkan membuat tabel ringkasan. Tabel ini berisi hasil perhitungan yang diperbarui secara berkala, misalnya setiap jam. Halaman laporan cukup membaca dari tabel ringkasan yang kecil. Pendekatan ini jauh lebih cepat daripada menghitung ulang dari data mentah setiap kali halaman dibuka. Pastikan pengguna memahami bahwa data mungkin tertunda sedikit.
 
@@ -308,7 +308,7 @@ WordPress menggunakan MySQL atau MariaDB sebagai basis datanya. Struktur tabel W
 
 Optimasi basis data tidak boleh mengorbankan keamanan. Salah satu praktik terpenting adalah selalu menggunakan *prepared statement* untuk query yang melibatkan input pengguna. Prepared statement memisahkan struktur query dari data, sehingga mencegah injeksi SQL. Selain lebih aman, prepared statement juga memudahkan MySQL mengenali query yang sama dengan parameter berbeda. Contoh-contoh kode di artikel ini menggunakan pendekatan tersebut.
 
-Batasi juga hak akses akun basis data yang digunakan aplikasi. Akun aplikasi sebaiknya hanya memiliki hak yang benar-benar dibutuhkan, seperti membaca dan menulis tabel tertentu. Jangan menggunakan akun administrator basis data untuk aplikasi. Jangan membuka port basis data ke internet jika tidak diperlukan. Prinsip keamanan dasar lainnya dibahas di artikel [keamanan siber](/keamanan-siber-cara-melindungi-data-pribadi/).
+Batasi juga hak akses akun basis data yang digunakan aplikasi. Akun aplikasi sebaiknya hanya memiliki hak yang benar-benar dibutuhkan, seperti membaca dan menulis tabel tertentu. Jangan menggunakan akun administrator basis data untuk aplikasi. Jangan membuka port basis data ke internet jika tidak diperlukan. Prinsip keamanan dasar lainnya dibahas di artikel keamanan siber.
 
 ## Perawatan Rutin Basis Data
 
@@ -432,4 +432,4 @@ Pada InnoDB, `OPTIMIZE TABLE` umumnya tidak perlu dijalankan secara rutin. Perin
 
 Optimasi database MySQL dimulai dari pengukuran, bukan tebakan. Aktifkan slow query log, temukan query dengan total waktu terbesar, lalu analisis dengan `EXPLAIN`. Buat index berdasarkan pola query nyata, perhatikan aturan prefiks kiri pada index gabungan, dan hindari pola yang membuat index tidak terpakai. Perbaiki pola query bermasalah seperti `SELECT *`, N+1, dan paginasi dengan offset besar. Rancang skema dengan tipe data yang tepat dan sesuaikan konfigurasi InnoDB dengan kapasitas server.
 
-Tambahkan lapisan cache untuk data yang jarang berubah, tetapi jangan gunakan cache untuk menutupi query yang buruk. Lakukan perawatan rutin dan selalu utamakan keamanan dengan prepared statement. Untuk melihat dampak perbaikan pada pengalaman pengguna, ukur waktu respons server melalui panduan [cara membaca PageSpeed Insights](/cara-membaca-pagespeed-insights/). Untuk halaman publik, kombinasikan basis data yang cepat dengan caching di [CDN](/cdn-pengertian-cara-kerja-manfaat/).
+Tambahkan lapisan cache untuk data yang jarang berubah, tetapi jangan gunakan cache untuk menutupi query yang buruk. Lakukan perawatan rutin dan selalu utamakan keamanan dengan prepared statement. Untuk melihat dampak perbaikan pada pengalaman pengguna, ukur waktu respons server melalui panduan cara membaca PageSpeed Insights. Untuk halaman publik, kombinasikan basis data yang cepat dengan caching di CDN.

@@ -22,7 +22,7 @@ lang: "id"
 
 Ketika seseorang mengetik "warung bakso dekat sini" atau "servis laptop di Yogyakarta", Google biasanya menampilkan peta dengan beberapa pilihan bisnis di sekitarnya. Bisnis yang muncul di daftar tersebut memiliki peluang besar untuk dikunjungi atau dihubungi. Pencarian seperti ini sering dilakukan oleh orang yang siap membeli dalam waktu dekat. Bagi usaha kecil dan menengah, tampil di hasil pencarian lokal bisa menjadi sumber pelanggan yang sangat berharga. Upaya untuk meraih posisi tersebut dikenal sebagai **SEO lokal**.
 
-Panduan ini membahas SEO lokal secara praktis, dengan fokus pada Google Business Profile yang dulu dikenal sebagai Google Bisnisku. Anda akan belajar cara membuat dan memverifikasi profil, mengisi informasi dengan benar, mengelola ulasan, dan memanfaatkan fitur-fitur yang tersedia. Kami juga membahas peran website, halaman lokasi, data terstruktur, dan tautan lokal. Di bagian akhir, ada pembahasan tentang praktik yang melanggar pedoman dan cara mengukur hasil. Artikel ini melengkapi pembahasan singkat tentang SEO lokal di artikel [apa itu SEO](/apa-itu-seo-pengertian-cara-kerja-jenis/).
+Panduan ini membahas SEO lokal secara praktis, dengan fokus pada Google Business Profile yang dulu dikenal sebagai Google Bisnisku. Anda akan belajar cara membuat dan memverifikasi profil, mengisi informasi dengan benar, mengelola ulasan, dan memanfaatkan fitur-fitur yang tersedia. Kami juga membahas peran website, halaman lokasi, data terstruktur, dan tautan lokal. Di bagian akhir, ada pembahasan tentang praktik yang melanggar pedoman dan cara mengukur hasil. Artikel ini melengkapi pembahasan singkat tentang SEO lokal di artikel apa itu SEO.
 
 ## Daftar Isi
 
@@ -160,7 +160,7 @@ Pastikan website memiliki halaman kontak yang mencantumkan nama bisnis, alamat l
 
 ### Konten yang Relevan dengan Wilayah
 
-Konten yang membahas topik lokal dapat memperkuat relevansi wilayah. Contohnya adalah artikel tentang tips memilih kontraktor rumah di daerah rawan banjir untuk bisnis renovasi di wilayah tertentu. Bisa juga liputan kegiatan yang diikuti bisnis Anda di lingkungan sekitar. Gunakan nama kota atau daerah secara alami di dalam konten. Konten seperti ini bermanfaat bagi pembaca lokal dan membantu mesin pencari memahami wilayah layanan Anda. Panduan menulis konten yang baik bisa dibaca di artikel [cara menulis artikel SEO friendly](/cara-menulis-artikel-seo-friendly/).
+Konten yang membahas topik lokal dapat memperkuat relevansi wilayah. Contohnya adalah artikel tentang tips memilih kontraktor rumah di daerah rawan banjir untuk bisnis renovasi di wilayah tertentu. Bisa juga liputan kegiatan yang diikuti bisnis Anda di lingkungan sekitar. Gunakan nama kota atau daerah secara alami di dalam konten. Konten seperti ini bermanfaat bagi pembaca lokal dan membantu mesin pencari memahami wilayah layanan Anda. Panduan menulis konten yang baik bisa dibaca di artikel cara menulis artikel SEO friendly.
 
 ### Data Terstruktur LocalBusiness
 
@@ -197,11 +197,11 @@ Data terstruktur LocalBusiness membantu Google memahami informasi bisnis di webs
 
 ### Kecepatan dan Tampilan Seluler
 
-Sebagian besar pencarian lokal dilakukan melalui ponsel, sering kali saat pengguna sedang dalam perjalanan. Website yang lambat atau sulit digunakan di ponsel akan membuat calon pelanggan beralih ke pesaing. Pastikan nomor telepon bisa langsung diklik untuk menelepon. Tombol arah dan pemesanan harus mudah ditemukan. Panduan teknis untuk mempercepat website bisa dibaca di artikel [cara mempercepat loading website](/cara-mempercepat-loading-website/).
+Sebagian besar pencarian lokal dilakukan melalui ponsel, sering kali saat pengguna sedang dalam perjalanan. Website yang lambat atau sulit digunakan di ponsel akan membuat calon pelanggan beralih ke pesaing. Pastikan nomor telepon bisa langsung diklik untuk menelepon. Tombol arah dan pemesanan harus mudah ditemukan. Panduan teknis untuk mempercepat website bisa dibaca di artikel cara mempercepat loading website.
 
 ## Membangun Tautan dan Penyebutan Lokal
 
-Penyebutan bisnis di website lain juga berkontribusi pada keunggulan bisnis di mata Google. Penyebutan ini bisa berupa tautan ke website maupun pencantuman nama, alamat, dan nomor telepon tanpa tautan. Dalam SEO lokal, pencantuman informasi bisnis di direktori sering disebut *citation*. Sumber yang relevan secara lokal sangat berharga. Strategi umum mendapatkan tautan dibahas lebih rinci di artikel [backlink](/backlink-pengertian-cara-mendapatkan/).
+Penyebutan bisnis di website lain juga berkontribusi pada keunggulan bisnis di mata Google. Penyebutan ini bisa berupa tautan ke website maupun pencantuman nama, alamat, dan nomor telepon tanpa tautan. Dalam SEO lokal, pencantuman informasi bisnis di direktori sering disebut *citation*. Sumber yang relevan secara lokal sangat berharga. Strategi umum mendapatkan tautan dibahas lebih rinci di artikel backlink.
 
 **Direktori dan platform yang relevan.** Cantumkan bisnis di direktori yang benar-benar digunakan oleh calon pelanggan di industri Anda. Contohnya adalah platform pemesanan restoran, platform pencarian dokter, atau direktori asosiasi profesi. Pastikan informasi NAP di direktori tersebut konsisten. Pilih kualitas daripada kuantitas. Mendaftar di ratusan direktori yang tidak dikenal tidak memberi manfaat berarti.
 
@@ -225,7 +225,7 @@ Google memiliki pedoman yang jelas tentang cara merepresentasikan bisnis di Goog
 
 Riset kata kunci untuk SEO lokal sedikit berbeda dari riset kata kunci pada umumnya. Pencarian lokal sering berupa gabungan antara jenis layanan dan lokasi. Contohnya adalah "servis AC Tangerang Selatan", "les bahasa Inggris anak di Depok", atau "toko bangunan dekat Stasiun Bogor". Ada juga pencarian tanpa nama lokasi, seperti "bengkel motor terdekat" atau "apotek buka sekarang". Memahami pola ini membantu Anda menyusun informasi profil dan konten website.
 
-Mulailah dengan mendaftar semua layanan atau produk yang Anda tawarkan. Untuk setiap layanan, pikirkan istilah yang biasa digunakan pelanggan. Pelanggan mungkin mengetik "tukang kunci" alih-alih "jasa duplikat kunci", atau "laundry kiloan" alih-alih "jasa binatu". Gunakan fitur pelengkapan otomatis Google dan data Search Console untuk menemukan istilah yang benar-benar digunakan. Teknik riset yang lebih lengkap dijelaskan di artikel [riset keyword](/riset-keyword-cara-menemukan-kata-kunci/).
+Mulailah dengan mendaftar semua layanan atau produk yang Anda tawarkan. Untuk setiap layanan, pikirkan istilah yang biasa digunakan pelanggan. Pelanggan mungkin mengetik "tukang kunci" alih-alih "jasa duplikat kunci", atau "laundry kiloan" alih-alih "jasa binatu". Gunakan fitur pelengkapan otomatis Google dan data Search Console untuk menemukan istilah yang benar-benar digunakan. Teknik riset yang lebih lengkap dijelaskan di artikel riset keyword.
 
 Selanjutnya, tentukan nama-nama lokasi yang relevan. Lokasi tidak hanya berupa nama kota, tetapi juga kecamatan, kelurahan, nama kawasan, atau penanda terkenal. Pelanggan di kota besar sering mencari berdasarkan kawasan, seperti nama perumahan atau pusat perbelanjaan terdekat. Gunakan nama-nama tersebut secara alami di halaman lokasi dan konten website. Jangan menjejalkan daftar panjang nama daerah ke dalam satu halaman, karena terlihat seperti spam.
 
@@ -297,7 +297,7 @@ Di website, Anda bisa mengantisipasi pencarian suara dengan menjawab pertanyaan 
 
 Profil bisnis yang sudah memiliki banyak ulasan adalah aset berharga. Jika akun pengelola diambil alih orang lain, profil bisa diubah atau bahkan dihapus. Kasus pengambilalihan profil oleh pihak tidak bertanggung jawab memang pernah terjadi. Karena itu, keamanan akun pengelola perlu diperhatikan dengan serius. Beberapa langkah sederhana dapat mengurangi risiko tersebut.
 
-Gunakan kata sandi yang kuat dan aktifkan autentikasi dua faktor pada akun Google yang mengelola profil. Tambahkan setidaknya dua pemilik atau pengelola tepercaya agar akses tidak hilang jika satu akun bermasalah. Tinjau daftar pengelola secara berkala dan hapus akses karyawan yang sudah tidak bekerja. Waspadai pesan yang mengaku dari Google dan meminta kode verifikasi atau akses ke profil. Panduan lengkap tentang keamanan akun bisa dibaca di artikel [keamanan siber](/keamanan-siber-cara-melindungi-data-pribadi/).
+Gunakan kata sandi yang kuat dan aktifkan autentikasi dua faktor pada akun Google yang mengelola profil. Tambahkan setidaknya dua pemilik atau pengelola tepercaya agar akses tidak hilang jika satu akun bermasalah. Tinjau daftar pengelola secara berkala dan hapus akses karyawan yang sudah tidak bekerja. Waspadai pesan yang mengaku dari Google dan meminta kode verifikasi atau akses ke profil. Panduan lengkap tentang keamanan akun bisa dibaca di artikel keamanan siber.
 
 ## Kapan Perlu Menggunakan Iklan Lokal?
 
@@ -383,4 +383,4 @@ Ulasan di platform lain, seperti marketplace atau platform pemesanan, ikut membe
 
 SEO lokal membantu bisnis tampil di hadapan calon pelanggan yang sedang mencari produk atau layanan di sekitar mereka. Google menentukan hasil lokal berdasarkan relevansi, jarak, dan keunggulan. Fondasi utamanya adalah Google Business Profile yang terverifikasi, lengkap, akurat, dan dikelola secara aktif. Ulasan pelanggan yang dikumpulkan secara wajar dan dibalas dengan baik memperkuat kepercayaan. Konsistensi nama, alamat, dan nomor telepon di semua platform membantu Google memahami bisnis Anda.
 
-Website tetap berperan penting melalui halaman lokasi, konten yang relevan dengan wilayah, data terstruktur, dan tampilan seluler yang cepat. Hindari praktik yang melanggar pedoman, seperti menambahkan kata kunci ke nama bisnis atau membeli ulasan. Ukur hasil melalui laporan kinerja profil dan alat analitik website. Untuk memperkuat reputasi website secara keseluruhan, lanjutkan dengan strategi di artikel [backlink](/backlink-pengertian-cara-mendapatkan/). Pastikan juga konten website ditulis dengan baik menggunakan panduan [cara menulis artikel SEO friendly](/cara-menulis-artikel-seo-friendly/).
+Website tetap berperan penting melalui halaman lokasi, konten yang relevan dengan wilayah, data terstruktur, dan tampilan seluler yang cepat. Hindari praktik yang melanggar pedoman, seperti menambahkan kata kunci ke nama bisnis atau membeli ulasan. Ukur hasil melalui laporan kinerja profil dan alat analitik website. Untuk memperkuat reputasi website secara keseluruhan, lanjutkan dengan strategi di artikel backlink. Pastikan juga konten website ditulis dengan baik menggunakan panduan cara menulis artikel SEO friendly.

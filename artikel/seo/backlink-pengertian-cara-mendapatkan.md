@@ -22,7 +22,7 @@ lang: "id"
 
 Di dunia SEO, **backlink** sering disebut sebagai salah satu faktor penting yang memengaruhi peringkat. Namun, topik ini juga paling banyak dikelilingi mitos dan praktik yang berisiko. Ada yang membeli ribuan tautan murah dengan harapan peringkat naik dalam sekejap. Ada pula yang menyebar tautan di kolom komentar berbagai blog. Banyak dari praktik tersebut justru tidak berdampak atau bahkan merugikan website.
 
-Panduan ini menjelaskan backlink secara menyeluruh dan jujur. Anda akan memahami apa itu backlink, mengapa tautan penting bagi mesin pencari, dan bagaimana membedakan tautan yang bernilai dari tautan yang berbahaya. Kami juga membahas atribut tautan seperti `nofollow`, `sponsored`, dan `ugc`. Di bagian inti, Anda akan menemukan cara-cara mendapatkan backlink yang sesuai dengan pedoman Google, lengkap dengan contoh pesan penjangkauan. Pembahasan ini melengkapi bagian SEO off-page di artikel [apa itu SEO](/apa-itu-seo-pengertian-cara-kerja-jenis/).
+Panduan ini menjelaskan backlink secara menyeluruh dan jujur. Anda akan memahami apa itu backlink, mengapa tautan penting bagi mesin pencari, dan bagaimana membedakan tautan yang bernilai dari tautan yang berbahaya. Kami juga membahas atribut tautan seperti `nofollow`, `sponsored`, dan `ugc`. Di bagian inti, Anda akan menemukan cara-cara mendapatkan backlink yang sesuai dengan pedoman Google, lengkap dengan contoh pesan penjangkauan. Pembahasan ini melengkapi bagian SEO off-page di artikel apa itu SEO.
 
 ## Daftar Isi
 
@@ -191,7 +191,7 @@ Menjadi narasumber di podcast, webinar, atau acara industri bisa menghasilkan ta
 
 ### 11. Aktif di Komunitas Lokal dan Industri
 
-Keterlibatan dalam komunitas sering menghasilkan tautan yang relevan dan alami. Contohnya adalah mendukung acara komunitas, menjadi anggota asosiasi profesi, atau berkolaborasi dengan kampus. Organisasi tersebut sering mencantumkan pendukung atau anggotanya di website mereka. Untuk bisnis lokal, tautan dari organisasi di daerah yang sama sangat berharga. Strategi ini dibahas lebih lanjut di artikel [SEO lokal](/seo-lokal-google-business-profile/).
+Keterlibatan dalam komunitas sering menghasilkan tautan yang relevan dan alami. Contohnya adalah mendukung acara komunitas, menjadi anggota asosiasi profesi, atau berkolaborasi dengan kampus. Organisasi tersebut sering mencantumkan pendukung atau anggotanya di website mereka. Untuk bisnis lokal, tautan dari organisasi di daerah yang sama sangat berharga. Strategi ini dibahas lebih lanjut di artikel SEO lokal.
 
 Jika dukungan berupa sponsor berbayar, tautan yang diberikan sebaiknya ditandai `sponsored`. Hal ini sesuai dengan pedoman Google tentang tautan berbayar. Nilai utama sponsor tetap ada pada eksposur merek dan hubungan dengan komunitas. Pilih kegiatan yang sejalan dengan nilai dan target pasar bisnis Anda. Keterlibatan yang tulus lebih dihargai daripada sekadar memasang logo.
 
@@ -331,7 +331,7 @@ Perhatikan juga halaman yang memiliki backlink tetapi sudah tidak ada atau menam
 
 **Mitos: Backlink bisa dibeli dengan aman asalkan pintar.** Penjual tautan sering mengklaim tautan mereka aman dan tidak terdeteksi. Kenyataannya, Google terus meningkatkan kemampuannya mendeteksi skema tautan. Tautan berbayar yang tidak ditandai melanggar kebijakan, dan risikonya ditanggung pemilik website. Bahkan jika tidak terkena tindakan manual, tautan tersebut bisa dinetralkan sehingga tidak berdampak. Uang yang dikeluarkan pun menjadi sia-sia.
 
-**Mitos: Backlink adalah satu-satunya hal yang penting.** Backlink memang penting, tetapi bukan segalanya. Konten yang relevan, pengalaman halaman yang baik, dan aspek teknis yang sehat sama pentingnya. Banyak halaman mendapat peringkat bagus untuk kata kunci spesifik dengan sedikit backlink. Upaya link building juga akan sulit berhasil jika kontennya biasa saja. Bangun fondasi konten terlebih dahulu, seperti dijelaskan dalam artikel [cara menulis artikel SEO friendly](/cara-menulis-artikel-seo-friendly/).
+**Mitos: Backlink adalah satu-satunya hal yang penting.** Backlink memang penting, tetapi bukan segalanya. Konten yang relevan, pengalaman halaman yang baik, dan aspek teknis yang sehat sama pentingnya. Banyak halaman mendapat peringkat bagus untuk kata kunci spesifik dengan sedikit backlink. Upaya link building juga akan sulit berhasil jika kontennya biasa saja. Bangun fondasi konten terlebih dahulu, seperti dijelaskan dalam artikel cara menulis artikel SEO friendly.
 
 ## FAQ Backlink
 
@@ -363,4 +363,4 @@ Tautan di media sosial umumnya diberi atribut `nofollow`, sehingga pengaruh lang
 
 Backlink adalah tautan dari website lain yang membantu mesin pencari menemukan dan menilai halaman Anda. Nilainya ditentukan oleh relevansi, kepercayaan sumber, sifat editorial, dan konteks tautan, bukan oleh jumlah semata. Pahami atribut `nofollow`, `sponsored`, dan `ugc` agar Anda bisa memberi dan menerima tautan sesuai pedoman. Hindari skema tautan seperti membeli backlink, pertukaran berlebihan, dan jaringan blog pribadi. Praktik-praktik tersebut berisiko dan sering tidak memberi hasil.
 
-Cara paling aman untuk mendapatkan backlink adalah membuat konten yang layak dirujuk, lalu memperkenalkannya kepada orang yang tepat. Manfaatkan data orisinal, digital PR, penyebutan merek, tautan rusak, hubungan bisnis, dan keterlibatan komunitas. Pantau backlink melalui Search Console dan gunakan alat Disavow hanya jika benar-benar diperlukan. Jika bisnis Anda melayani wilayah tertentu, lanjutkan dengan panduan [SEO lokal](/seo-lokal-google-business-profile/). Pastikan juga setiap halaman yang Anda promosikan cepat diakses dengan mempelajari [Core Web Vitals](/core-web-vitals-lcp-inp-cls/).
+Cara paling aman untuk mendapatkan backlink adalah membuat konten yang layak dirujuk, lalu memperkenalkannya kepada orang yang tepat. Manfaatkan data orisinal, digital PR, penyebutan merek, tautan rusak, hubungan bisnis, dan keterlibatan komunitas. Pantau backlink melalui Search Console dan gunakan alat Disavow hanya jika benar-benar diperlukan. Jika bisnis Anda melayani wilayah tertentu, lanjutkan dengan panduan SEO lokal. Pastikan juga setiap halaman yang Anda promosikan cepat diakses dengan mempelajari Core Web Vitals.
