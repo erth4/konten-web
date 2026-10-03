@@ -1,6 +1,6 @@
 # Logo & Ikon Maserta
 
-Warna: hitam `#0A0A0A`, putih `#FFFFFF`, biru `#2563EB`.
+Warna: teal `#166B70`, emas `#F2CB72`, teks `#183541`, panel gelap `#183F4B`, latar `#F8FAF9`.
 
 | File | Ukuran | Kegunaan |
 |---|---|---|
@@ -26,5 +26,5 @@ Salin semua file (kecuali `maserta-icon*` dan README ini) ke root web, lalu tamb
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
-<meta name="theme-color" content="#0A0A0A">
+<meta name="theme-color" content="#183F4B">
 ```
