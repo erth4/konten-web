@@ -29,7 +29,7 @@ Perhatikan apakah ada pola berikut dalam keseharian:
 - Sulit fokus pada satu pekerjaan tanpa membuka aplikasi.
 - Waktu bersama keluarga atau teman terpotong oleh layar.
 
-Bukti penelitian tentang dampak media sosial memang beragam. Pengaruhnya tampak berbeda antarindividu dan bergantung pada cara memakainya, misalnya menggulir pasif cenderung lebih melelahkan daripada berinteraksi aktif dengan orang yang dikenal. Karena itu, ukurlah dari pengalaman Anda sendiri.
+Bukti penelitian tentang dampak media sosial memang beragam dan belum seragam. Pengaruhnya tampak berbeda antarindividu dan bergantung pada cara memakainya, misalnya menggulir pasif cenderung lebih melelahkan daripada berinteraksi aktif dengan orang yang dikenal. Karena itu, ukurlah dari pengalaman Anda sendiri.
 
 ## Mulai dari Skala Kecil
 
@@ -55,4 +55,4 @@ Di awal, bosan atau gelisah itu normal, karena otak terbiasa dengan rangsangan k
 
 ## Penutup
 
-Digital detox tidak harus berarti hidup tanpa internet, apalagi bagi mereka yang bekerja lewat layar. Cukup tentukan kapan dan untuk apa Anda memakai media sosial, lalu biarkan sisanya tetap menjadi waktu Anda sendiri.
+Digital detox tidak harus berarti hidup tanpa internet, apalagi bagi mereka yang bekerja lewat layar. Cukup tentukan kapan dan untuk apa Anda memakai media sosial, lalu biarkan sisanya tetap menjadi waktu Anda sendiri. Mulailah dengan satu langkah malam ini: matikan notifikasi dari satu aplikasi yang paling sering mengganggu, lalu lihat bagaimana perasaan Anda besok pagi.

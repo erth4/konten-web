@@ -49,8 +49,8 @@ Tidur siang singkat sekitar 20 menit dapat menyegarkan, tetapi tidur siang panja
 
 ## Kapan Perlu ke Dokter
 
-Gangguan tidur yang berlangsung lebih dari beberapa minggu dan mengganggu aktivitas perlu diperiksa. Mendengkur keras dengan jeda napas, rasa kantuk berlebihan di siang hari, atau tidur yang disertai kecemasan berat bisa menandakan kondisi yang membutuhkan penanganan medis. Dokter atau psikolog dapat membantu menelusuri penyebabnya.
+Gangguan tidur yang berlangsung lebih dari beberapa minggu dan mengganggu aktivitas perlu diperiksa. Mendengkur keras dengan jeda napas, rasa kantuk berlebihan di siang hari, atau tidur yang disertai kecemasan berat bisa menandakan kondisi yang membutuhkan penanganan medis. Dokter atau psikolog dapat membantu menelusuri penyebabnya, sehingga Anda tidak perlu menebak-nebak sendiri.
 
 ## Penutup
 
-Kebiasaan tidur tidak berubah dalam satu malam. Pilih satu atau dua kebiasaan dari daftar di atas, jalani selama dua minggu, lalu perhatikan perubahan pada suasana hati dan tingkat energi Anda.
+Kebiasaan tidur tidak berubah dalam satu malam. Pilih satu atau dua kebiasaan dari daftar di atas, jalani selama dua minggu, lalu perhatikan perubahan pada suasana hati, tingkat energi, dan seberapa cepat Anda tertidur.

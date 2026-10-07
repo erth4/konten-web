@@ -28,7 +28,7 @@ Burnout jarang datang tiba-tiba. Biasanya ia menumpuk pelan, dan tanda awalnya s
 - **Merasa tidak efektif.** Tugas sederhana memakan waktu lebih lama dan Anda meragukan kemampuan sendiri.
 - **Gejala fisik.** Sakit kepala, gangguan tidur, dan masalah pencernaan sering menyertai.
 
-Jika beberapa tanda ini bertahan lebih dari beberapa minggu, anggap itu sinyal untuk berhenti sejenak dan menilai ulang, bukan alasan untuk menambah usaha.
+Jika beberapa tanda ini bertahan lebih dari beberapa minggu dan mulai memengaruhi rumah maupun hubungan Anda, anggap itu sinyal untuk berhenti sejenak dan menilai ulang, bukan alasan untuk menambah usaha.
 
 ## Dari Mana Burnout Berasal
 
@@ -56,4 +56,4 @@ Burnout bisa beririsan dengan depresi dan gangguan kecemasan. Bila Anda merasa p
 
 ## Penutup
 
-Pemulihan dari burnout biasanya berlangsung bertahap dan tidak lurus. Mulailah dari satu perubahan kecil minggu ini, misalnya berhenti membuka surel setelah pukul tujuh malam, lalu tambahkan perubahan berikutnya ketika yang pertama sudah terasa wajar. Karier yang berkelanjutan dibangun dari energi yang dijaga, bukan dihabiskan.
+Pemulihan dari burnout biasanya berlangsung bertahap dan tidak lurus. Mulailah dari satu perubahan kecil minggu ini, misalnya berhenti membuka surel setelah pukul tujuh malam, lalu tambahkan perubahan berikutnya ketika yang pertama sudah terasa wajar. Karier yang berkelanjutan dibangun dari energi yang dijaga, bukan dihabiskan. Anda boleh meminta bantuan sebelum benar-benar kehabisan tenaga.

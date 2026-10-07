@@ -49,4 +49,4 @@ Jika pikiran berputar ini mengganggu tidur, pekerjaan, atau hubungan hampir seti
 
 ## Penutup
 
-Pikiran yang riuh bukan tanda Anda lemah; ia kebiasaan yang bisa dilatih ulang. Mulailah malam ini dengan satu halaman tulisan bebas, lalu lihat apakah kepala terasa sedikit lebih ringan.
+Pikiran yang riuh bukan tanda Anda lemah; ia kebiasaan yang bisa dilatih ulang. Mulailah malam ini dengan satu halaman tulisan bebas, lalu lihat apakah kepala terasa sedikit lebih ringan. Ulangi beberapa malam berturut-turut, karena manfaat menulis biasanya terasa setelah menjadi kebiasaan.

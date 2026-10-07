@@ -54,4 +54,4 @@ Sesuaikan dengan kondisi tubuh. Jika Anda punya penyakit jantung, nyeri sendi, a
 
 ## Penutup
 
-Anda tidak perlu menjadi atlet untuk mendapat manfaat gerak. Sepasang sepatu dan sepuluh menit di luar ruangan adalah langkah awal yang sah. Coba sepanjang minggu ini, lalu catat bagaimana suasana hati Anda setelahnya.
+Anda tidak perlu menjadi atlet untuk mendapat manfaat gerak. Sepasang sepatu dan sepuluh menit di luar ruangan adalah langkah awal yang sah. Coba sepanjang minggu ini, lalu catat bagaimana suasana hati Anda setelahnya. Dari catatan sederhana itu, Anda akan melihat sendiri kapan jalan kaki paling membantu, apakah pagi, siang, atau sore hari, dan bisa menyesuaikan jadwal dari sana.
