@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" width="900" height="900" role="img" aria-label="User Online: Monitoring Pengguna Multiaplikasi, YouTube HD Downloader">
+<defs>
+<linearGradient id="gBlue" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2B3F5C"/><stop offset="1" stop-color="#1E2D45"/></linearGradient>
+<linearGradient id="gRed" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C20008"/><stop offset="1" stop-color="#9E0006"/></linearGradient>
+<linearGradient id="gViolet" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4B2FE0"/><stop offset="1" stop-color="#3D27BF"/></linearGradient>
+<linearGradient id="gBtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E5252F"/><stop offset="1" stop-color="#B80010"/></linearGradient>
+<linearGradient id="gThumb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1B1B2E"/><stop offset="1" stop-color="#0D0D16"/></linearGradient>
+<radialGradient id="glowR" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#C20008" stop-opacity=".38"/><stop offset="1" stop-color="#C20008" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowV" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#4B2FE0" stop-opacity=".34"/><stop offset="1" stop-color="#4B2FE0" stop-opacity="0"/></radialGradient>
+<filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#000" flood-opacity=".6"/></filter>
+<clipPath id="r2"><rect x="32" width="32" height="64"/></clipPath>
+<clipPath id="bg"><rect width="900" height="900"/></clipPath>
+<symbol id="i-menu" viewBox="0 0 16 16"><path d="M2.500 4h11M2.500 8h11M2.500 12h11"/></symbol>
+<symbol id="i-link" viewBox="0 0 16 16"><path d="M6.800 9.200a3 3 0 0 0 4.200 0l2.200-2.200a3 3 0 0 0-4.200-4.200L8 3.800M9.200 6.800a3 3 0 0 0-4.200 0L2.800 9a3 3 0 0 0 4.200 4.200L8 12.200"/></symbol>
+<symbol id="i-down" viewBox="0 0 16 16"><path d="M8 2.500v8M4.500 7.500L8 11l3.500-3.500M3 13.500h10"/></symbol>
+</defs>
+<style>
+text{font-family:Inter,'Segoe UI',Arial,sans-serif;fill:#F2F2F2}
+.m{font-family:'JetBrains Mono',Consolas,'DejaVu Sans Mono','Courier New',monospace}
+</style>
+<rect width="900" height="900" fill="#07070B"/>
+<g clip-path="url(#bg)">
+<circle cx="800" cy="60" r="330" fill="url(#glowR)"/>
+<circle cx="60" cy="860" r="360" fill="url(#glowV)"/>
+</g>
+
+<!-- judul -->
+<text x="56" y="120" font-size="66" font-weight="800" letter-spacing="-1.500">User Online:</text>
+<text x="56" y="166" font-size="30" font-weight="500" style="fill:#D8D8E0">Monitoring Pengguna Multiaplikasi,</text>
+<text x="56" y="206" font-size="30" font-weight="800" style="fill:#FF5A63">YouTube HD Downloader</text>
+
+<!-- panel 1: User Online -->
+<g transform="translate(56 250)" filter="url(#sh)">
+<rect x=".5" y=".5" width="703" height="269" rx="10" fill="#0C0C12" stroke="#2E2E3A"/>
+<path d="M.5 30.500V10.500a10 10 0 0 1 10-10h683a10 10 0 0 1 10 10v20z" fill="#0A0A0F"/>
+<circle cx="18" cy="15" r="5" fill="#C93A3A"/>
+<text x="30" y="19" font-size="11.500">User Online - (4) Online</text>
+<path d="M0 70.500H704" stroke="#232330"/>
+<g transform="translate(16 38)"><circle cx="10" cy="7" r="5" fill="#E8E8E8"/><path d="M0 22a10 8 0 0 1 20 0z" fill="#E8E8E8"/><circle cx="23" cy="10" r="4" fill="#E03C3C"/><path d="M16 22a7 6 0 0 1 14 0z" fill="#E03C3C"/><circle cx="2" cy="12" r="3.500" fill="#9A9A9A"/></g>
+<text x="54" y="56" font-size="14" font-weight="700">User Online</text>
+<g transform="translate(16 82)">
+<rect x=".5" y=".5" width="158" height="58" rx="6" fill="#090910" stroke="#2A2A34"/>
+<text x="12" y="20" font-size="10.500" style="fill:#B8B8C4">Pengguna online</text>
+<text x="12" y="46" font-size="24" font-weight="700">4</text>
+</g><g transform="translate(187 82)">
+<rect x=".5" y=".5" width="158" height="58" rx="6" fill="#090910" stroke="#2A2A34"/>
+<text x="12" y="20" font-size="10.500" style="fill:#B8B8C4">Aplikasi aktif</text>
+<text x="12" y="46" font-size="24" font-weight="700">3</text>
+</g><g transform="translate(358 82)">
+<rect x=".5" y=".5" width="158" height="58" rx="6" fill="#090910" stroke="#2A2A34"/>
+<text x="12" y="20" font-size="10.500" style="fill:#B8B8C4">Koneksi terakhir</text>
+<text x="12" y="46" font-size="22" font-weight="700">16.59.56</text>
+</g><g transform="translate(529 82)">
+<rect x=".5" y=".5" width="158" height="58" rx="6" fill="#090910" stroke="#2A2A34"/>
+<text x="12" y="20" font-size="10.500" style="fill:#B8B8C4">Status server</text>
+<circle cx="18" cy="40" r="4.500" fill="#1F9D4A"/><text x="30" y="46" font-size="17" font-weight="700">Terhubung</text>
+</g>
+<g transform="translate(16 154)">
+<rect x=".5" y=".5" width="215" height="99" rx="6" fill="#090910" stroke="#2A2A34"/>
+<path d="M.5 34.5V6.500a6 6 0 0 1 6-6h203a6 6 0 0 1 6 6v28z" fill="url(#gBlue)"/>
+<rect x="10" y="7" width="20" height="20" rx="4" fill="#fff" fill-opacity=".16" stroke="#fff" stroke-opacity=".25"/>
+<use href="#i-menu" x="13" y="10" width="14" height="14" color="#EDEDED" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+<text x="38" y="19" font-size="12" font-weight="700">A*****</text>
+<text x="38" y="30" font-size="9.500" style="fill:#EEE">1 pengguna</text>
+<text x="12" y="56" font-size="10" style="fill:#9C9CA8">Browser</text><text x="64" y="56" font-size="10.500">Chrome 154.0.0.0</text>
+<text x="12" y="73" font-size="10" style="fill:#9C9CA8">Device</text><text x="64" y="73" font-size="10.500">Windows 11 · 16 GB</text>
+<text x="12" y="90" font-size="10" style="fill:#9C9CA8">Link</text><text x="64" y="90" font-size="10.500" class="m">https://*******</text>
+</g><g transform="translate(244 154)">
+<rect x=".5" y=".5" width="215" height="99" rx="6" fill="#090910" stroke="#2A2A34"/>
+<path d="M.5 34.5V6.500a6 6 0 0 1 6-6h203a6 6 0 0 1 6 6v28z" fill="url(#gRed)"/>
+<rect x="10" y="7" width="20" height="20" rx="4" fill="#fff" fill-opacity=".16" stroke="#fff" stroke-opacity=".25"/>
+<use href="#i-menu" x="13" y="10" width="14" height="14" color="#EDEDED" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+<text x="38" y="19" font-size="12" font-weight="700">e*****</text>
+<text x="38" y="30" font-size="9.500" style="fill:#EEE">2 pengguna</text>
+<text x="12" y="56" font-size="10" style="fill:#9C9CA8">Browser</text><text x="64" y="56" font-size="10.500">Chrome 154.0.0.0</text>
+<text x="12" y="73" font-size="10" style="fill:#9C9CA8">Device</text><text x="64" y="73" font-size="10.500">Windows 11 · 16 GB</text>
+<text x="12" y="90" font-size="10" style="fill:#9C9CA8">Link</text><text x="64" y="90" font-size="10.500" class="m">https://*******</text>
+</g><g transform="translate(472 154)">
+<rect x=".5" y=".5" width="215" height="99" rx="6" fill="#090910" stroke="#2A2A34"/>
+<path d="M.5 34.5V6.500a6 6 0 0 1 6-6h203a6 6 0 0 1 6 6v28z" fill="url(#gViolet)"/>
+<rect x="10" y="7" width="20" height="20" rx="4" fill="#fff" fill-opacity=".16" stroke="#fff" stroke-opacity=".25"/>
+<use href="#i-menu" x="13" y="10" width="14" height="14" color="#EDEDED" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+<text x="38" y="19" font-size="12" font-weight="700">S*****</text>
+<text x="38" y="30" font-size="9.500" style="fill:#EEE">1 pengguna</text>
+<text x="12" y="56" font-size="10" style="fill:#9C9CA8">Browser</text><text x="64" y="56" font-size="10.500">Chrome 154.0.0.0</text>
+<text x="12" y="73" font-size="10" style="fill:#9C9CA8">Device</text><text x="64" y="73" font-size="10.500">Windows 10 · 2 GB</text>
+<text x="12" y="90" font-size="10" style="fill:#9C9CA8">Link</text><text x="64" y="90" font-size="10.500" class="m">https://*******</text>
+</g>
+</g>
+
+<!-- panel 2: YouTube HD Downloader -->
+<g transform="translate(140 545)" filter="url(#sh)">
+<rect x=".5" y=".5" width="703" height="269" rx="10" fill="#0C0C12" stroke="#2E2E3A"/>
+<path d="M.5 30.500V10.500a10 10 0 0 1 10-10h683a10 10 0 0 1 10 10v20z" fill="#0A0A0F"/>
+<circle cx="18" cy="15" r="5" fill="#C93A3A"/>
+<text x="30" y="19" font-size="11.500">YouTube HD Downloader</text>
+<rect x="16.500" y="46.500" width="672" height="46" rx="8" fill="#12121A" stroke="#2E2E3A"/>
+<use href="#i-link" x="30" y="61" width="16" height="16" color="#A9A9B8" fill="none" stroke="currentColor" stroke-width="1.500" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="56" y="74" font-size="13.500" style="fill:#8F8FA0">Tempel tautan video YouTube di sini</text>
+<rect x="566" y="52" width="116" height="34" rx="6" fill="url(#gBtn)"/>
+<use href="#i-down" x="580" y="61" width="16" height="16" color="#fff" fill="none" stroke="currentColor" stroke-width="1.700" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="604" y="74" font-size="14" font-weight="700">Unduh</text>
+<!-- thumbnail -->
+<rect x="16.500" y="112.500" width="224" height="126" rx="8" fill="url(#gThumb)" stroke="#2E2E3A"/>
+<circle cx="128" cy="175" r="26" fill="url(#gBtn)"/>
+<path d="M121 162v26l22-13z" fill="#fff"/>
+<rect x="190" y="122" width="40" height="22" rx="4" fill="#E5252F"/>
+<text x="210" y="138" font-size="12.500" font-weight="800" text-anchor="middle">HD</text>
+<!-- info -->
+<rect x="262" y="118" width="300" height="12" rx="6" fill="#2A2A36"/>
+<rect x="262" y="140" width="210" height="10" rx="5" fill="#1D1D28"/>
+<text x="262" y="186" font-size="13" style="fill:#C8C8D4">Mengunduh video kualitas HD</text>
+<text x="682" y="186" font-size="13" font-weight="700" text-anchor="end">72%</text>
+<rect x="262" y="198" width="420" height="10" rx="5" fill="#1C1C26"/>
+<rect x="262" y="198" width="302" height="10" rx="5" fill="url(#gBtn)"/>
+<circle cx="269" cy="228" r="4.500" fill="#1F9D4A"/>
+<text x="281" y="232" font-size="12" style="fill:#C8C8D4">Tautan video terbaca</text>
+</g>
+
+<!-- footer -->
+<g transform="translate(56 842)">
+<g transform="scale(.5)"><rect width="64" height="64" rx="12" fill="#FFFFFF"/><path d="M14 50V16H21L32 31L43 16H50V50H42V28.5L32 42L22 28.5V50Z" fill="#183541"/><path d="M14 50V16H21L32 31L43 16H50V50H42V28.5L32 42L22 28.5V50Z" fill="#166B70" clip-path="url(#r2)"/></g>
+<text x="44" y="22" font-size="17" font-weight="700">maserta.my.id</text>
+</g>
+<text x="844" y="864" font-size="13" text-anchor="end" style="fill:#A9A9B8">Dikembangkan oleh Ertha Dwi Setiyawan</text>
+</svg>
