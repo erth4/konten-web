@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" width="900" height="900" role="img" aria-label="User Online: Monitoring Pengguna Multiaplikasi">
+<defs>
+<linearGradient id="gBlue" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2E5662"/><stop offset="1" stop-color="#244652"/></linearGradient>
+<linearGradient id="gRed" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1B8288"/><stop offset="1" stop-color="#166B70"/></linearGradient>
+<linearGradient id="gViolet" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B4533F"/><stop offset="1" stop-color="#9A4231"/></linearGradient>
+<linearGradient id="gBtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F7D88A"/><stop offset="1" stop-color="#EEC25F"/></linearGradient>
+<linearGradient id="gThumb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#245563"/><stop offset="1" stop-color="#12303B"/></linearGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="2.200" fill="#C9D9D8"/></pattern>
+<filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#183541" flood-opacity=".28"/></filter>
+<clipPath id="bg"><rect width="900" height="900"/></clipPath>
+<clipPath id="r2"><rect x="32" width="32" height="64"/></clipPath>
+<symbol id="i-menu" viewBox="0 0 16 16"><path d="M2.500 4h11M2.500 8h11M2.500 12h11"/></symbol>
+<symbol id="i-link" viewBox="0 0 16 16"><path d="M6.800 9.200a3 3 0 0 0 4.200 0l2.200-2.200a3 3 0 0 0-4.200-4.200L8 3.800M9.200 6.800a3 3 0 0 0-4.200 0L2.800 9a3 3 0 0 0 4.200 4.200L8 12.200"/></symbol>
+<symbol id="i-down" viewBox="0 0 16 16"><path d="M8 2.500v8M4.500 7.500L8 11l3.500-3.500M3 13.500h10"/></symbol>
+<symbol id="i-search" viewBox="0 0 16 16"><circle cx="7" cy="7" r="4.500"/><path d="M10.500 10.500L14 14"/></symbol>
+<symbol id="i-check" viewBox="0 0 16 16"><circle cx="8" cy="8" r="6"/><path d="M5.300 8.200l2 2 3.500-4"/></symbol>
+</defs>
+<style>
+text{font-family:Inter,'Segoe UI',Arial,sans-serif;fill:#FFFFFF}
+.m{font-family:'JetBrains Mono',Consolas,'DejaVu Sans Mono','Courier New',monospace}
+.d{fill:#9DB0B5}
+</style>
+<rect width="900" height="900" fill="#F8FAF9"/>
+<g clip-path="url(#bg)">
+<circle cx="800" cy="130" r="300" fill="#E0F1ED"/>
+<circle cx="30" cy="900" r="190" fill="#E0F1ED"/>
+<rect x="690" y="40" width="154" height="110" fill="url(#dots)"/>
+</g>
+<text x="56" y="120" font-size="66" font-weight="800" letter-spacing="-1.500" style="fill:#183541">User Online:</text>
+<text x="56" y="166" font-size="30" font-weight="500" style="fill:#526873">Monitoring Pengguna</text>
+<text x="56" y="206" font-size="30" font-weight="800" style="fill:#166B70">Multiaplikasi</text>
+<g transform="translate(56 250)" filter="url(#sh)">
+<rect x=".5" y=".5" width="787" height="569" rx="10" fill="#183541" stroke="#2E5662"/>
+<path d="M.5 30.500V10.500a10 10 0 0 1 10-10h767a10 10 0 0 1 10 10v20z" fill="#12303B"/>
+<circle cx="18" cy="15" r="4.500" fill="#DCE7E7"/><circle cx="33" cy="15" r="4.500" fill="#DCE7E7"/><circle cx="48" cy="15" r="4.500" fill="#F2CB72"/>
+<text x="64" y="19" font-size="11.500" style="fill:#DCE7E7">User Online - (4) Online</text>
+<path d="M0 70.500H788" stroke="#2E5662"/><g transform="translate(16 38)"><circle cx="10" cy="7" r="5" fill="#DCE7E7"/><path d="M0 22a10 8 0 0 1 20 0z" fill="#DCE7E7"/><circle cx="23" cy="10" r="4" fill="#F2CB72"/><path d="M16 22a7 6 0 0 1 14 0z" fill="#F2CB72"/><circle cx="2" cy="12" r="3.500" fill="#9DB0B5"/></g><text x="54" y="56" font-size="14" font-weight="700">User Online</text><g transform="translate(16 88)"><rect x="0.5" y="0.5" width="179" height="65" rx="6" fill="#183F4B" stroke="#2E5662"/><text x="12" y="21" font-size="10.500" style="fill:#9DB0B5">Pengguna online</text><text x="12" y="52" font-size="26" font-weight="700">4</text></g><g transform="translate(208 88)"><rect x="0.5" y="0.5" width="179" height="65" rx="6" fill="#183F4B" stroke="#2E5662"/><text x="12" y="21" font-size="10.500" style="fill:#9DB0B5">Aplikasi aktif</text><text x="12" y="52" font-size="26" font-weight="700">3</text></g><g transform="translate(400 88)"><rect x="0.5" y="0.5" width="179" height="65" rx="6" fill="#183F4B" stroke="#2E5662"/><text x="12" y="21" font-size="10.500" style="fill:#9DB0B5">Koneksi terakhir</text><text x="12" y="52" font-size="23" font-weight="700">16.59.56</text></g><g transform="translate(592 88)"><rect x="0.5" y="0.5" width="179" height="65" rx="6" fill="#183F4B" stroke="#2E5662"/><text x="12" y="21" font-size="10.500" style="fill:#9DB0B5">Status server</text><circle cx="18" cy="46" r="4.500" fill="#3DBE7A"/><text x="30" y="52" font-size="18" font-weight="700">Terhubung</text></g><rect x="16.5" y="170.5" width="489" height="33" rx="6" fill="#14323D" stroke="#2E5662"/><use href="#i-search" x="27" y="179" width="16" height="16" color="#DCE7E7" fill="none" stroke="currentColor" stroke-width="1.500" stroke-linecap="round"/><text x="52" y="192" font-size="13" class="d">Cari nama, ID, atau IP</text><rect x="16.5" y="216.5" width="489" height="159" rx="6" fill="#183F4B" stroke="#2E5662"/><path d="M16.5 252.5V222.5a6 6 0 0 1 6-6h477a6 6 0 0 1 6 6v30z" fill="url(#gBlue)"/>
+<rect x="26" y="224" width="20" height="20" rx="4" fill="#fff" fill-opacity=".16" stroke="#fff" stroke-opacity=".25"/>
+<use href="#i-menu" x="29" y="227" width="14" height="14" color="#FFFFFF" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+<text x="54" y="236" font-size="12.500" font-weight="700">A*****</text>
+<text x="54" y="247" font-size="9.500" style="fill:#EEE">1 pengguna</text><rect x="26.5" y="260.5" width="469" height="103" rx="5" fill="#14323D" stroke="#2E5662"/>
+<text x="36" y="277" font-size="11.500" font-weight="700">S*****</text>
+<text x="36" y="294" font-size="10.500" class="m" style="fill:#DCE7E7">16.46.53 · 14 menit lalu · 18c2e7d865b5323f</text>
+<text x="36" y="314" font-size="10" class="d">Browser</text><text x="92" y="314" font-size="10.500">Chrome 154.0.0.0</text>
+<text x="36" y="330" font-size="10" class="d">Device</text><text x="92" y="330" font-size="10.500">Desktop (Windows 10 64-bit 16 GB)</text><text x="36" y="346" font-size="10" class="d">Link</text><text x="92" y="346" font-size="10.500" class="m">https://*******</text><rect x="16.5" y="388.5" width="489" height="159" rx="6" fill="#183F4B" stroke="#2E5662"/><path d="M16.5 424.5V394.5a6 6 0 0 1 6-6h477a6 6 0 0 1 6 6v30z" fill="url(#gViolet)"/>
+<rect x="26" y="396" width="20" height="20" rx="4" fill="#fff" fill-opacity=".16" stroke="#fff" stroke-opacity=".25"/>
+<use href="#i-menu" x="29" y="399" width="14" height="14" color="#FFFFFF" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+<text x="54" y="408" font-size="12.500" font-weight="700">S*****</text>
+<text x="54" y="419" font-size="9.500" style="fill:#EEE">1 pengguna</text><rect x="26.5" y="432.5" width="469" height="103" rx="5" fill="#14323D" stroke="#2E5662"/>
+<text x="36" y="449" font-size="11.500" font-weight="700">K*****</text>
+<text x="36" y="466" font-size="10.500" class="m" style="fill:#DCE7E7">15.45.53 · 1 jam lalu · bfbd5472064e4fbf</text>
+<text x="36" y="486" font-size="10" class="d">Browser</text><text x="92" y="486" font-size="10.500">Chrome 154.0.0.0</text>
+<text x="36" y="502" font-size="10" class="d">Device</text><text x="92" y="502" font-size="10.500">Desktop (Windows 10 64-bit 2 GB)</text><text x="36" y="518" font-size="10" class="d">Link</text><text x="92" y="518" font-size="10.500" class="m">https://*******</text><rect x="522.5" y="170.5" width="249" height="149" rx="6" fill="#183F4B" stroke="#2E5662"/><text x="536" y="196" font-size="13" font-weight="700">Pengguna per aplikasi</text><text x="536" y="222" font-size="11.500">e*****</text><text x="758" y="222" font-size="11.500" text-anchor="end">2</text><rect x="536" y="230" width="222" height="5" rx="2.500" fill="#12303B"/><rect x="536" y="230" width="222" height="5" rx="2.500" fill="#F2CB72"/><text x="536" y="254" font-size="11.500">A*****</text><text x="758" y="254" font-size="11.500" text-anchor="end">1</text><rect x="536" y="262" width="222" height="5" rx="2.500" fill="#12303B"/><rect x="536" y="262" width="111" height="5" rx="2.500" fill="#F2CB72"/><text x="536" y="286" font-size="11.500">S*****</text><text x="758" y="286" font-size="11.500" text-anchor="end">1</text><rect x="536" y="294" width="222" height="5" rx="2.500" fill="#12303B"/><rect x="536" y="294" width="111" height="5" rx="2.500" fill="#F2CB72"/><rect x="522.5" y="332.5" width="249" height="215" rx="6" fill="#183F4B" stroke="#2E5662"/><path d="M522.5 368.5V338.5a6 6 0 0 1 6-6h237a6 6 0 0 1 6 6v30z" fill="url(#gRed)"/>
+<rect x="532" y="340" width="20" height="20" rx="4" fill="#fff" fill-opacity=".16" stroke="#fff" stroke-opacity=".25"/>
+<use href="#i-menu" x="535" y="343" width="14" height="14" color="#FFFFFF" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+<text x="560" y="352" font-size="12.500" font-weight="700">e*****</text>
+<text x="560" y="363" font-size="9.500" style="fill:#EEE">2 pengguna</text><rect x="530.5" y="376.5" width="233" height="77" rx="5" fill="#14323D" stroke="#2E5662"/>
+<text x="540" y="393" font-size="11.500" font-weight="700">A*****</text>
+<text x="540" y="410" font-size="10.500" class="m" style="fill:#DCE7E7">16.59.56 · 1 menit lalu</text>
+<text x="540" y="430" font-size="10" class="d">Browser</text><text x="596" y="430" font-size="10.500">Chrome 154.0.0.0</text>
+<text x="540" y="446" font-size="10" class="d">Device</text><text x="596" y="446" font-size="10.500">Windows 11 64-bit</text><rect x="530.5" y="462.5" width="233" height="77" rx="5" fill="#14323D" stroke="#2E5662"/>
+<text x="540" y="479" font-size="11.500" font-weight="700">R*****</text>
+<text x="540" y="496" font-size="10.500" class="m" style="fill:#DCE7E7">13.28.23 · 3 jam lalu</text>
+<text x="540" y="516" font-size="10" class="d">Browser</text><text x="596" y="516" font-size="10.500">Chrome 154.0.0.0</text>
+<text x="540" y="532" font-size="10" class="d">Device</text><text x="596" y="532" font-size="10.500">Windows 11 64-bit</text>
+</g>
+<g transform="translate(56 842)">
+<g transform="scale(.5)"><rect width="64" height="64" rx="12" fill="#183541"/><path d="M14 50V16H21L32 31L43 16H50V50H42V28.5L32 42L22 28.5V50Z" fill="#FFFFFF"/><path d="M14 50V16H21L32 31L43 16H50V50H42V28.5L32 42L22 28.5V50Z" fill="#F2CB72" clip-path="url(#r2)"/></g>
+<text x="44" y="22" font-size="17" font-weight="700" style="fill:#183541">maserta.my.id</text>
+</g>
+<text x="844" y="864" font-size="13" text-anchor="end" style="fill:#526873">Dikembangkan oleh Ertha Dwi Setiyawan</text>
+</svg>
