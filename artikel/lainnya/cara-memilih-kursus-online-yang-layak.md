@@ -12,7 +12,7 @@ keywords:
 category: "Lainnya"
 tags: ["Kursus Online", "Belajar Mandiri", "Karier", "Pengembangan Diri"]
 image_alt: "Ilustrasi laptop berisi pelajaran video dengan lencana sertifikat dan daftar periksa"
-date: "2026-10-13"
+date: "2026-10-14"
 lang: "id"
 ---
 

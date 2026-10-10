@@ -5,7 +5,7 @@ slug: "cara-memilih-kursus-online-yang-layak"
 focus_keyword: "online course"
 category: "Others"
 image_alt: "Illustration of a laptop showing video lessons with a certificate badge and a checklist"
-date: "2026-10-13"
+date: "2026-10-14"
 lang: "en"
 ---
 

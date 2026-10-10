@@ -12,7 +12,7 @@ keywords:
 category: "Lainnya"
 tags: ["Negosiasi Gaji", "Karier", "Tawaran Kerja", "Tips"]
 image_alt: "Ilustrasi timbangan dengan koin dan dokumen kontrak yang melambangkan negosiasi gaji"
-date: "2026-10-13"
+date: "2026-10-14"
 lang: "id"
 ---
 

@@ -5,7 +5,7 @@ slug: "cara-mengamankan-whatsapp-dari-pembajakan"
 focus_keyword: "protect WhatsApp"
 category: "Others"
 image_alt: "Illustration of a phone with chat bubbles and a padlock shield protecting a WhatsApp account"
-date: "2026-10-13"
+date: "2026-10-14"
 lang: "en"
 ---
 

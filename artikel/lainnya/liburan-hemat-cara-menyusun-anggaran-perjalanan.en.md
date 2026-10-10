@@ -5,7 +5,7 @@ slug: "liburan-hemat-cara-menyusun-anggaran-perjalanan"
 focus_keyword: "budget travel"
 category: "Others"
 image_alt: "Illustration of a suitcase, a map, and a calculator on a table for planning a holiday budget"
-date: "2026-10-13"
+date: "2026-10-14"
 lang: "en"
 ---
 

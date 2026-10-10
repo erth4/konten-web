@@ -5,7 +5,7 @@ slug: "wawancara-kerja-pertanyaan-umum-cara-menjawab"
 focus_keyword: "job interview questions"
 category: "Others"
 image_alt: "Illustration of two people talking across an interview table with speech bubbles"
-date: "2026-10-13"
+date: "2026-10-14"
 lang: "en"
 ---
 

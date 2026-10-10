@@ -12,7 +12,7 @@ keywords:
 category: "Lainnya"
 tags: ["Liburan", "Anggaran Perjalanan", "Tips Hemat", "Perencanaan"]
 image_alt: "Ilustrasi koper, peta, dan kalkulator di atas meja untuk merencanakan anggaran liburan"
-date: "2026-10-13"
+date: "2026-10-14"
 lang: "id"
 ---
 

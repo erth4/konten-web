@@ -12,7 +12,7 @@ keywords:
 category: "Lainnya"
 tags: ["Wawancara Kerja", "Karier", "Pencari Kerja", "Tips"]
 image_alt: "Ilustrasi dua orang berbincang di meja wawancara kerja dengan gelembung percakapan"
-date: "2026-10-13"
+date: "2026-10-14"
 lang: "id"
 ---
 

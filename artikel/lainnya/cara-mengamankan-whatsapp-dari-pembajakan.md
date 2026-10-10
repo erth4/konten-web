@@ -12,7 +12,7 @@ keywords:
 category: "Lainnya"
 tags: ["WhatsApp", "Keamanan Akun", "Penipuan", "Privasi"]
 image_alt: "Ilustrasi ponsel dengan gelembung pesan dan perisai bertanda gembok yang melindungi akun WhatsApp"
-date: "2026-10-13"
+date: "2026-10-14"
 lang: "id"
 ---
 

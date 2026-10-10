@@ -57,7 +57,7 @@ Catatan:
 - Status selalu `published`. Gunakan tanggal sesuai permintaan pengguna; jika tidak disebut, tanyakan atau pakai hari berikutnya dan sebutkan asumsinya.
 - API tidak punya kunci idempotensi dan skrip tidak mengulang kirim otomatis. Jika koneksi putus setelah pengiriman, periksa dulu apakah artikelnya sudah ada sebelum mengunggah ulang. Slug duplikat ditolak dengan 422.
 - Batas: unggah 60 percobaan per 10 menit, request maksimal 8 MB, gambar maksimal 5 MB (JPEG/PNG/WebP). Login gagal 5 kali per nama pengguna dalam 15 menit akan diblokir, jadi jangan mencoba kredensial berulang.
-- Artikel yang sudah terunggah tidak bisa diubah lewat API ini (hanya tambah). Perbaikan dilakukan lewat panel admin: `/admin/artikel/<id>/ubah`.
+- Artikel yang sudah terunggah tidak bisa diubah lewat API ini (hanya tambah, tidak ada hapus). Untuk mengganti tanggal terbit, pakai `python3 -I tools/ubah-tanggal-artikel.py 2026-10-14T09:00 <id> ...` (mengirim ulang form edit admin dan hanya mengubah `published_at`; teruji pada id 48-52). Perbaikan lain dilakukan lewat panel admin: `/admin/artikel/<id>/ubah`.
 
 ## Git
 
@@ -76,10 +76,10 @@ Setelah artikel dan gambar siap dan diunggah, commit dengan format konvensional 
 | 45 | `penipuan-lowongan-kerja-ciri-ciri-cara-menghindari` | 2026-10-13 |
 | 46 | `cara-membuat-cv-lolos-seleksi-awal` | 2026-10-13 |
 | 47 | `cara-mengecek-hoaks-sebelum-membagikan-informasi` | 2026-10-13 |
-| 48 | `wawancara-kerja-pertanyaan-umum-cara-menjawab` | 2026-10-13 |
-| 49 | `negosiasi-gaji-cara-menyiapkan-dan-menyampaikan` | 2026-10-13 |
-| 50 | `cara-mengamankan-whatsapp-dari-pembajakan` | 2026-10-13 |
-| 51 | `cara-memilih-kursus-online-yang-layak` | 2026-10-13 |
-| 52 | `liburan-hemat-cara-menyusun-anggaran-perjalanan` | 2026-10-13 |
+| 48 | `wawancara-kerja-pertanyaan-umum-cara-menjawab` | 2026-10-14 |
+| 49 | `negosiasi-gaji-cara-menyiapkan-dan-menyampaikan` | 2026-10-14 |
+| 50 | `cara-mengamankan-whatsapp-dari-pembajakan` | 2026-10-14 |
+| 51 | `cara-memilih-kursus-online-yang-layak` | 2026-10-14 |
+| 52 | `liburan-hemat-cara-menyusun-anggaran-perjalanan` | 2026-10-14 |
 
 Artikel lain di `artikel/` mungkin sudah atau belum ada di situs; cek panel admin sebelum mengunggah ulang.

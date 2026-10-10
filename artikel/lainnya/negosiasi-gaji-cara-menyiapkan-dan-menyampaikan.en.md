@@ -5,7 +5,7 @@ slug: "negosiasi-gaji-cara-menyiapkan-dan-menyampaikan"
 focus_keyword: "salary negotiation"
 category: "Others"
 image_alt: "Illustration of a balance scale with coins and a contract document representing salary negotiation"
-date: "2026-10-13"
+date: "2026-10-14"
 lang: "en"
 ---
 
