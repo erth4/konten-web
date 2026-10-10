@@ -7,7 +7,9 @@ Kredensial: MASERTA_USER dan MASERTA_PASS.
 """
 import os,sys,json,re,html,http.cookiejar,urllib.request,urllib.parse
 from html.parser import HTMLParser
-B='https://maserta.my.id'; NEW=sys.argv[1]; IDS=sys.argv[2:]
+B='https://maserta.my.id'
+if len(sys.argv)<3 or not re.fullmatch(r'\d{4}-\d\d-\d\dT\d\d:\d\d',sys.argv[1]): sys.exit('Pemakaian: ubah-tanggal-artikel.py YYYY-MM-DDTHH:mm ID [ID ...]')
+NEW=sys.argv[1]; IDS=sys.argv[2:]
 op=urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
 def req(path,data=None,json_body=None,tok=None):
     h={}
