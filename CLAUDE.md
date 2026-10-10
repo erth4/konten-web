@@ -76,5 +76,10 @@ Setelah artikel dan gambar siap dan diunggah, commit dengan format konvensional 
 | 45 | `penipuan-lowongan-kerja-ciri-ciri-cara-menghindari` | 2026-10-13 |
 | 46 | `cara-membuat-cv-lolos-seleksi-awal` | 2026-10-13 |
 | 47 | `cara-mengecek-hoaks-sebelum-membagikan-informasi` | 2026-10-13 |
+| 48 | `wawancara-kerja-pertanyaan-umum-cara-menjawab` | 2026-10-13 |
+| 49 | `negosiasi-gaji-cara-menyiapkan-dan-menyampaikan` | 2026-10-13 |
+| 50 | `cara-mengamankan-whatsapp-dari-pembajakan` | 2026-10-13 |
+| 51 | `cara-memilih-kursus-online-yang-layak` | 2026-10-13 |
+| 52 | `liburan-hemat-cara-menyusun-anggaran-perjalanan` | 2026-10-13 |
 
 Artikel lain di `artikel/` mungkin sudah atau belum ada di situs; cek panel admin sebelum mengunggah ulang.
