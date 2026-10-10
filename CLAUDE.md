@@ -73,5 +73,8 @@ Setelah artikel dan gambar siap dan diunggah, commit dengan format konvensional 
 | 42 | `cara-melunasi-utang-metode-snowball-avalanche` | 2026-10-12 |
 | 43 | `kartu-kredit-cara-pakai-bijak-hindari-jerat-bunga` | 2026-10-12 |
 | 44 | `mencatat-pengeluaran-harian-cara-memulai` | 2026-10-12 |
+| 45 | `penipuan-lowongan-kerja-ciri-ciri-cara-menghindari` | 2026-10-13 |
+| 46 | `cara-membuat-cv-lolos-seleksi-awal` | 2026-10-13 |
+| 47 | `cara-mengecek-hoaks-sebelum-membagikan-informasi` | 2026-10-13 |
 
 Artikel lain di `artikel/` mungkin sudah atau belum ada di situs; cek panel admin sebelum mengunggah ulang.
