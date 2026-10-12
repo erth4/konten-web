@@ -25,12 +25,14 @@ Daftar resmi selalu bisa diambil dari `GET /admin/api/kategori-artikel` (butuh l
 
 ## Format artikel
 
-Front matter `.md`: `title`, `meta_description`, `slug`, `focus_keyword`, `keywords` (hanya ID), `category`, `tags` (hanya ID), `date`, `lang`. File `.en.md` memakai `title`, `meta_description`, `slug`, `focus_keyword`, `category`, `date`, `lang: "en"`. Isi dimulai dengan `# Judul`, lalu `##` untuk subjudul. Markdown yang didukung skrip: `##`/`###`, paragraf, daftar `-` dan `1.`, `>`, dan `**tebal**`.
+Front matter `.md`: `title`, `meta_description`, `slug`, `focus_keyword`, `keywords` (hanya ID), `category`, `tags` (hanya ID), `date`, `lang`. File `.en.md` memakai `title`, `meta_description`, `slug`, `focus_keyword`, `category`, `date`, `lang: "en"`. Isi dimulai dengan `# Judul`, lalu `##` untuk subjudul. Markdown yang didukung skrip: `##`/`###`, paragraf, daftar `-` dan `1.`, `>`, dan `**tebal**`. Tabel Markdown tidak didukung (server membersihkan HTML), pakai daftar.
 
 Aturan konten:
 - Minimal 500 kata per bahasa. Versi Inggris ditulis natural, bukan terjemahan kata per kata.
 - Topik harus unik: cek `artikel/**` dan `og/` dulu agar tidak dobel.
 - Jangan mengarang statistik, kutipan, atau angka spesifik tanpa sumber.
+- Untuk topik yang bergantung pada fakta terkini (jadwal, aturan, nominal, tokoh), verifikasi dengan pencarian web dulu. Jika tidak bisa dibuktikan, ganti topiknya atau tulis tanpa klaim spesifik dan arahkan pembaca ke sumber resmi.
+- SEO: kata kunci fokus ada di judul (maks ~70 karakter), meta_description (maks 160 karakter), dan paragraf pertama; sertakan `image_alt` yang sesuai isi gambar di kedua file bahasa.
 - `meta_description` 30-300 karakter (batas API untuk ringkasan); `title` maksimal 160 karakter.
 - Opsional: `image_alt: "..."` di front matter untuk teks alternatif gambar. Tanpa itu, skrip memakai judul.
 
@@ -81,5 +83,11 @@ Setelah artikel dan gambar siap dan diunggah, commit dengan format konvensional 
 | 50 | `cara-mengamankan-whatsapp-dari-pembajakan` | 2026-10-14 |
 | 51 | `cara-memilih-kursus-online-yang-layak` | 2026-10-14 |
 | 52 | `liburan-hemat-cara-menyusun-anggaran-perjalanan` | 2026-10-14 |
+| 53 | `hujan-meteor-orionid-2026-jadwal-cara-mengamati` | 2026-10-15 |
+| 54 | `pekan-antariksa-dunia-2026-tema-rocket-revolution` | 2026-10-15 |
+| 55 | `banjir-musim-hujan-persiapan-sebelum-saat-sesudah` | 2026-10-15 |
+| 56 | `karhutla-kabut-asap-cara-melindungi-kesehatan` | 2026-10-15 |
+| 57 | `simpanan-aman-di-bank-penjaminan-lps-cek-izin-ojk` | 2026-10-15 |
+| 58 | `dana-pendidikan-anak-cara-menyiapkan-sejak-dini` | 2026-10-15 |
 
 Artikel lain di `artikel/` mungkin sudah atau belum ada di situs; cek panel admin sebelum mengunggah ulang.
