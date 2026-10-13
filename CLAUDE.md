@@ -93,5 +93,8 @@ Setelah artikel dan gambar siap dan diunggah, commit dengan format konvensional 
 | 60 | `cache-control-browser-caching-cara-mengatur-header` | 2026-10-13 |
 | 61 | `render-blocking-resources-cara-mengatasi-css-javascript` | 2026-10-13 |
 | 62 | `resource-hints-preload-preconnect-prefetch-cara-memakai` | 2026-10-13 |
+| 63 | `tautan-internal-internal-link-cara-menyusun-seo` | 2026-10-16 |
+| 64 | `canonical-url-konten-duplikat-cara-mengatasi` | 2026-10-16 |
+| 65 | `robots-txt-sitemap-xml-fungsi-cara-mengatur` | 2026-10-16 |
 
 Artikel lain di `artikel/` mungkin sudah atau belum ada di situs; cek panel admin sebelum mengunggah ulang.
