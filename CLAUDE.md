@@ -96,5 +96,8 @@ Setelah artikel dan gambar siap dan diunggah, commit dengan format konvensional 
 | 63 | `tautan-internal-internal-link-cara-menyusun-seo` | 2026-10-16 |
 | 64 | `canonical-url-konten-duplikat-cara-mengatasi` | 2026-10-16 |
 | 65 | `robots-txt-sitemap-xml-fungsi-cara-mengatur` | 2026-10-16 |
+| 66 | `deskripsi-produk-toko-online-yang-membuat-pembeli-yakin` | 2026-10-17 |
+| 67 | `kebijakan-retur-refund-toko-online-cara-menyusun` | 2026-10-17 |
+| 68 | `ulasan-pelanggan-toko-online-cara-mendapat-menanggapi` | 2026-10-17 |
 
 Artikel lain di `artikel/` mungkin sudah atau belum ada di situs; cek panel admin sebelum mengunggah ulang.
