@@ -89,5 +89,6 @@ Setelah artikel dan gambar siap dan diunggah, commit dengan format konvensional 
 | 56 | `karhutla-kabut-asap-cara-melindungi-kesehatan` | 2026-10-15 |
 | 57 | `simpanan-aman-di-bank-penjaminan-lps-cek-izin-ojk` | 2026-10-15 |
 | 58 | `dana-pendidikan-anak-cara-menyiapkan-sejak-dini` | 2026-10-15 |
+| 59 | `mcp-task-manager-kelola-tugas-agen-ai` | 2026-10-13 |
 
 Artikel lain di `artikel/` mungkin sudah atau belum ada di situs; cek panel admin sebelum mengunggah ulang.
