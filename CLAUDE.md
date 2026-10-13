@@ -90,5 +90,8 @@ Setelah artikel dan gambar siap dan diunggah, commit dengan format konvensional 
 | 57 | `simpanan-aman-di-bank-penjaminan-lps-cek-izin-ojk` | 2026-10-15 |
 | 58 | `dana-pendidikan-anak-cara-menyiapkan-sejak-dini` | 2026-10-15 |
 | 59 | `mcp-task-manager-kelola-tugas-agen-ai` | 2026-10-13 |
+| 60 | `cache-control-browser-caching-cara-mengatur-header` | 2026-10-13 |
+| 61 | `render-blocking-resources-cara-mengatasi-css-javascript` | 2026-10-13 |
+| 62 | `resource-hints-preload-preconnect-prefetch-cara-memakai` | 2026-10-13 |
 
 Artikel lain di `artikel/` mungkin sudah atau belum ada di situs; cek panel admin sebelum mengunggah ulang.
