@@ -99,5 +99,20 @@ Setelah artikel dan gambar siap dan diunggah, commit dengan format konvensional 
 | 66 | `deskripsi-produk-toko-online-yang-membuat-pembeli-yakin` | 2026-10-17 |
 | 67 | `kebijakan-retur-refund-toko-online-cara-menyusun` | 2026-10-17 |
 | 68 | `ulasan-pelanggan-toko-online-cara-mendapat-menanggapi` | 2026-10-17 |
+| 69 | `chatgpt-gemini-claude-cara-memilih-asisten-ai` | 2026-10-17 |
+| 70 | `cara-menulis-prompt-ai-yang-jelas-hasil-akurat` | 2026-10-17 |
+| 71 | `proxy-vs-vpn-perbedaan-fungsi-kapan-dipakai` | 2026-10-17 |
+| 72 | `search-intent-jenis-cara-menyesuaikan-konten` | 2026-10-18 |
+| 73 | `google-trends-cara-riset-topik-artikel` | 2026-10-18 |
+| 74 | `seo-mesin-pencari-alternatif-dan-jawaban-ai` | 2026-10-18 |
+| 75 | `judul-produk-shopee-cara-menulis-agar-mudah-dicari` | 2026-10-19 |
+| 76 | `canva-desain-gambar-produk-promosi-toko-online` | 2026-10-19 |
+| 77 | `template-balasan-chat-pembeli-toko-online-cepat-ramah` | 2026-10-19 |
+| 78 | `kurs-dolar-rupiah-cara-membaca-dan-dampaknya` | 2026-10-20 |
+| 79 | `ihsg-adalah-cara-membaca-untuk-pemula` | 2026-10-20 |
+| 80 | `langganan-digital-cara-mengelola-agar-tidak-boros` | 2026-10-20 |
+| 81 | `cek-bansos-cara-cek-penerima-lewat-situs-resmi-kemensos` | 2026-10-21 |
+| 82 | `cara-membaca-prakiraan-cuaca-bmkg-info-bmkg` | 2026-10-21 |
+| 83 | `terjemahan-online-tips-hasil-akurat-google-translate` | 2026-10-21 |
 
 Artikel lain di `artikel/` mungkin sudah atau belum ada di situs; cek panel admin sebelum mengunggah ulang.
