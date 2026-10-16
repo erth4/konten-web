@@ -1,5 +1,5 @@
 ---
-title: "MSCI Standalone Market: What It Means for Indonesian Stock Investors"
+title: "MSCI Standalone Market: Only a Proposal, Yet Stocks Already Plunged"
 meta_description: "MSCI opened a consultation on moving Indonesia to MSCI standalone market status: what it says, why stocks fell, what is uncertain, and what retail investors do."
 slug: "msci-standalone-market-indonesia-arti-bagi-investor"
 focus_keyword: "MSCI standalone market"
@@ -9,7 +9,7 @@ date: "2026-10-16"
 lang: "en"
 ---
 
-# MSCI Standalone Market: What It Means for Indonesian Stock Investors
+# MSCI Standalone Market: Only a Proposal, Yet Stocks Already Plunged
 
 Friday morning, 16 October 2026. Indonesia's main stock index, the IHSG, opened down about 8 percent, and the Indonesia Stock Exchange halted trading for 30 minutes. The trigger was news from the night before: MSCI had opened a consultation on a proposal to move Indonesia to **MSCI standalone market** status. If you read the headline and felt your stomach drop, take a breath first. A lot here hasn't been decided yet.
 

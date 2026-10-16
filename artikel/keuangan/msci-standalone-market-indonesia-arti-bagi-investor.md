@@ -1,5 +1,5 @@
 ---
-title: "MSCI Standalone Market: Apa Artinya bagi Investor Saham Indonesia"
+title: "MSCI Standalone Market: Baru Usulan, tapi IHSG Sudah Terjun Bebas"
 meta_description: "MSCI membuka konsultasi memindahkan Indonesia ke MSCI standalone market. Apa isinya, mengapa IHSG anjlok, apa yang belum pasti, dan sikap bagi investor ritel."
 slug: "msci-standalone-market-indonesia-arti-bagi-investor"
 focus_keyword: "MSCI standalone market"
@@ -19,7 +19,7 @@ date: "2026-10-16"
 lang: "id"
 ---
 
-# MSCI Standalone Market: Apa Artinya bagi Investor Saham Indonesia
+# MSCI Standalone Market: Baru Usulan, tapi IHSG Sudah Terjun Bebas
 
 Jumat pagi, 16 Oktober 2026. IHSG dibuka turun sekitar 8 persen, dan Bursa Efek Indonesia menghentikan perdagangan selama 30 menit. Pemicunya satu kabar dari malam sebelumnya: MSCI membuka konsultasi atas usulan memindahkan Indonesia ke **MSCI standalone market**. Kalau Anda membaca judul beritanya lalu langsung panik, tarik napas dulu. Banyak hal di sini belum diputuskan.
 
