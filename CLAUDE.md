@@ -129,5 +129,6 @@ Setelah artikel dan gambar siap dan diunggah, commit dengan format konvensional 
 | 96 | `google-scholar-cara-mencari-jurnal-dan-mengutip` | 2026-10-26 |
 | 97 | `google-maps-tips-peta-offline-bagikan-lokasi` | 2026-10-26 |
 | 98 | `gmail-merapikan-kotak-masuk-label-filter` | 2026-10-26 |
+| 99 | `msci-standalone-market-indonesia-arti-bagi-investor` | 2026-10-16 |
 
 Artikel lain di `artikel/` mungkin sudah atau belum ada di situs; cek panel admin sebelum mengunggah ulang.
