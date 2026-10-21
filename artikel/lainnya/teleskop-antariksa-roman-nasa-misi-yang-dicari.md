@@ -42,7 +42,7 @@ Kalau Hubble ibarat lensa dekat yang memotret detail halus, Roman lebih mirip le
 
 ## Apa yang Akan Dicarinya
 
-NASA menggambarkan misinya mencakup banyak hal, dari tepi tata surya hingga tepi alam semesta yang teramati. Dua tema besar yang paling sering disebut:
+NASA memberi misi ini cakupan yang luas, mulai dari pinggiran tata surya kita sampai batas terjauh alam semesta yang bisa diamati. Dua tema besar yang paling sering disebut:
 
 **Energi gelap.** Sejak akhir 1990-an, para astronom mengetahui bahwa perluasan alam semesta tampak semakin cepat. Penyebabnya, yang dinamai energi gelap, masih misteri. Dengan memetakan sebaran galaksi dan mengamati objek seperti ledakan bintang di langit yang sangat luas, Roman akan mengumpulkan data untuk menguji gagasan tentangnya.
 

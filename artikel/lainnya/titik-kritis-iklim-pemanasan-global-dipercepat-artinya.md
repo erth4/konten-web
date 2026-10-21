@@ -21,7 +21,7 @@ lang: "id"
 
 # Titik Kritis Iklim: Arti Peringatan Pemanasan Global Dipercepat
 
-Pada Selasa 20 Oktober 2026, dalam konferensi Reuters Sustainability Europe, ilmuwan iklim Johan Rockström menyampaikan peringatan yang langsung dikutip media di banyak negara. Direktur Potsdam Institute for Climate Impact Research itu mengatakan pemanasan global akibat emisi bahan bakar fosil sedang dipercepat dan mendorong sejumlah ekosistem penting mendekati **titik kritis iklim**. Istilah itu terdengar teknis. Artikel ini menjelaskannya, dan juga apa yang belum bisa dipastikan.
+Pada Selasa 20 Oktober 2026, dalam konferensi Reuters Sustainability Europe, ilmuwan iklim Johan Rockström menyampaikan peringatan yang langsung dikutip media di banyak negara. Direktur Potsdam Institute for Climate Impact Research itu menyebut pemanasan yang dipicu pembakaran bahan bakar fosil kian cepat, sementara beberapa ekosistem kunci bumi semakin dekat ke **titik kritis iklim**. Istilah itu terdengar teknis. Artikel ini menjelaskannya, dan juga apa yang belum bisa dipastikan.
 
 ## Apa Itu Titik Kritis
 
@@ -42,8 +42,8 @@ Sebuah studi di jurnal Science tahun 2022, yang salah satu penulisnya adalah Roc
 Menurut laporan yang dimuat berbagai media, ia menyampaikan beberapa hal.
 
 - Pemanasan global sedang mempercepat langkahnya.
-- Kerusakan pada terumbu karang dan hutan Amazon mendekati tak dapat dipulihkan.
-- Bagian dari sirkulasi laut Atlantik berada dekat keruntuhan.
+- Kerusakan terumbu karang dan hutan Amazon mendekati titik tanpa jalan kembali.
+- Sebagian sirkulasi laut Atlantik berada di ambang kolaps.
 - Dunia berada di jalur untuk melampaui kenaikan 1,5 derajat Celsius dalam beberapa tahun ke depan, menjelang perundingan COP31 yang dimulai 9 November.
 - Ia juga mengkritik lobi yang ingin melonggarkan aturan penghentian kendaraan mesin pembakaran serta subsidi bensin dan solar yang meredam permintaan kendaraan listrik.
 
@@ -51,7 +51,7 @@ Menurut laporan yang dimuat berbagai media, ia menyampaikan beberapa hal.
 
 Beberapa catatan agar tidak terjebak dalam dua kesalahan yang sama-sama umum: panik berlebihan, atau mengabaikan.
 
-**Ini pernyataan dalam konferensi, bukan studi baru.** Kata seperti "tak dapat dipulihkan" dan "dekat keruntuhan" adalah penilaian Rockström. Ia ilmuwan yang sangat dihormati, tetapi para ilmuwan lain bisa memberi penilaian berbeda tentang seberapa dekat dan seberapa pasti sebuah ambang.
+**Ini pernyataan dalam konferensi, bukan studi baru.** Penggambaran seperti "titik tanpa jalan kembali" dan "ambang kolaps" adalah penilaian Rockström. Ia ilmuwan yang sangat dihormati, tetapi para ilmuwan lain bisa memberi penilaian berbeda tentang seberapa dekat dan seberapa pasti sebuah ambang.
 
 **Ambang tidak punya angka pasti.** Para peneliti memakai perkiraan rentang suhu, bukan satu angka. Ketidakpastian itu bukan alasan untuk menunda. Justru karena konsekuensinya sulit dibalik, banyak ilmuwan menganggap kehati-hatian wajar.
 

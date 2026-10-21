@@ -13,15 +13,15 @@ lang: "en"
 
 Friday morning, 16 October 2026. Indonesia's main stock index, the IHSG, opened down about 8 percent, and the Indonesia Stock Exchange halted trading for 30 minutes. The trigger was news from the night before: MSCI had opened a consultation on a proposal to move Indonesia to **MSCI standalone market** status. If you read the headline and felt your stomach drop, take a breath first. A lot here hasn't been decided yet.
 
-This article is educational, not a call to buy or sell. The information is as of 16 October 2026 and may change, so follow official announcements from MSCI, the OJK financial regulator, and the exchange.
+This article is educational, not a call to buy or sell. Everything here is as of 16 October 2026 and may change, so follow official announcements from MSCI, the OJK financial regulator, and the exchange.
 
 ## What Was Actually Announced
 
 On 15 October 2026, MSCI announced a consultation on a proposal to reclassify its MSCI Indonesia Indexes from Emerging Market to Standalone Market status. Notice the word consultation. This is not yet a decision.
 
-The timetable is clear. MSCI takes feedback from market participants until 30 April 2027 and will announce its decision on or before 30 June 2027. Its release also mentions the possibility of an interim update while the consultation runs.
+Dates are clear. MSCI takes feedback from market participants until 30 April 2027 and will announce its decision on or before 30 June 2027. Its release also mentions the possibility of an interim update while the consultation runs.
 
-But don't read "consultation" as "bound to be dropped". MSCI wrote that it expects to proceed with the proposal unless the consultation finds clear evidence of material improvement in market governance and functioning.
+But don't read "consultation" as "bound to be dropped". MSCI's default is to go ahead. Only solid proof that the market's governance and day-to-day workings have clearly improved would change that.
 
 ## Who MSCI Is, and Why Its Announcement Rattled the Market
 
@@ -33,13 +33,13 @@ According to MSCI's release, the concern is investability: how workable the mark
 
 Those matter because MSCI builds its indexes from shares that the public can actually trade, known as free float. If ownership isn't transparent, it's hard to judge how many shares really float freely. And if prices are suspected of being moved in a coordinated way, the price on screen can't be trusted as a basis for building a portfolio.
 
-Indonesia's authorities have in fact been moving. The reforms MSCI names include disclosure of shareholders above 1 percent, more detailed investor classification disclosure, reporting on high shareholding concentration, and a roadmap to a 15 percent minimum free float. The trouble, MSCI says, is that it hasn't seen consistent implementation or sustained impact, alongside continued suspected coordinated trading and little evidence of meaningful enforcement.
+Indonesia's authorities have in fact been moving. Among the reforms MSCI names are disclosure of shareholders above 1 percent, more detailed investor classification disclosure, reporting on high shareholding concentration, and a roadmap to a 15 percent minimum free float. For MSCI the problem lies in execution: the rules don't yet look consistently applied or proven to last, suspected coordinated trading keeps surfacing, and signs of serious enforcement are hard to find.
 
 On Frontier Market status, MSCI judged that a move there would not reflect the depth of the problems. That's why it proposed Standalone.
 
 ## So What Is Standalone?
 
-MSCI's release doesn't spell it out, and the full consultation document is on MSCI's website. In general, Standalone is a category of its own outside the regular groups such as Developed, Emerging, and Frontier. The Indonesia Stock Exchange itself argues that Standalone is not the lowest category. For the official definition, read the consultation document rather than relying on headlines.
+MSCI's release doesn't spell it out, and the full consultation document is on MSCI's website. In general, Standalone is a category of its own outside the regular groups such as Developed, Emerging, and Frontier. Indonesia's own stock exchange argues that Standalone is not the lowest category. For the official definition, read the consultation document rather than relying on headlines.
 
 ## While Waiting: The Freeze Stays in Place
 
@@ -49,7 +49,7 @@ MSCI also said the existing freeze on certain index changes for Indonesian secur
 
 The market reacted hard. After opening about 8 percent lower and a 30-minute halt, the IHSG finished the Friday session down about 11 percent. Exact figures differ slightly between reports, so check the exchange's official closing data.
 
-The OJK said it respects MSCI's independence and promised to strengthen reforms, with consistent law enforcement as the focus. The exchange said it was surprised, noted the issue hadn't come up at a meeting in Bangkok a few days earlier, and stressed that the announcement is still part of a consultation process, not a final decision.
+OJK, the regulator, said it respects MSCI's independence and promised to strengthen reforms, with consistent law enforcement as the focus. The exchange said it was surprised, noted the issue hadn't come up at a meeting in Bangkok a few days earlier, and stressed that the announcement is still part of a consultation process, not a final decision.
 
 ## What's Still Uncertain
 

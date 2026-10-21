@@ -23,13 +23,13 @@ lang: "id"
 
 Bayangkan saklar lampu untuk satu jenis sel di dalam otak yang hidup. Tekan, sel itu aktif. Lepas, ia berhenti. Dan saklarnya berupa cahaya. Itulah gambaran paling sederhana dari **optogenetika**, teknik yang pada 5 Oktober 2026 mengantar tiga ilmuwan memenangi Nobel Fisiologi atau Kedokteran.
 
-Penerimanya Karl Deisseroth dari Stanford dan Howard Hughes Medical Institute, Peter Hegemann dari Universitas Humboldt Berlin, dan Georg Nagel dari Universitas Würzburg. Menurut situs Nobel, penghargaan itu diberikan untuk penemuan yang mengarah pada optogenetika, yang memungkinkan aktivitas sel saraf tertentu di otak hidup dinyalakan atau dimatikan. Yang membuat kisah ini menarik: asalnya dari alga bersel satu.
+Penerimanya Karl Deisseroth dari Stanford dan Howard Hughes Medical Institute, Peter Hegemann dari Universitas Humboldt Berlin, dan Georg Nagel dari Universitas Würzburg. Komite Nobel menilai penemuan mereka membuka jalan bagi optogenetika, cara untuk menyalakan atau mematikan sel saraf pilihan di dalam otak yang hidup. Yang membuat kisah ini menarik: asalnya dari alga bersel satu.
 
 ## Dari Kolam ke Laboratorium Otak
 
 Sejumlah alga hijau mendeteksi cahaya untuk berenang ke arah yang tepat. Alat deteksinya berupa protein bernama channelrhodopsin, sebuah kanal yang membuka ketika terkena cahaya. Hegemann dan Nagel menemukan protein ini pada sebuah alga. Awalnya, hubungannya dengan riset otak belum terlihat jelas.
 
-Lalu muncul pertanyaan yang cerdas: kalau protein itu bisa membuka kanal pada sel alga, bisakah ia ditaruh pada sel saraf agar sel saraf itu menyala oleh cahaya? Deisseroth dan timnya ikut mengubah protein tersebut menjadi alat kendali untuk sel saraf. Dalam situs Nobel, Deisseroth disebut mengubah protein alga itu menjadi saklar cahaya bagi sel saraf. Hasilnya adalah sebuah perangkat riset yang sekarang dipakai di laboratorium di seluruh dunia.
+Lalu muncul pertanyaan yang cerdas: kalau protein itu bisa membuka kanal pada sel alga, bisakah ia ditaruh pada sel saraf agar sel saraf itu menyala oleh cahaya? Deisseroth dan timnya ikut mengubah protein tersebut menjadi alat kendali untuk sel saraf. Deisseroth dikenal karena menyesuaikan protein alga itu sehingga bekerja sebagai saklar berbasis cahaya di dalam sel saraf. Hasilnya adalah sebuah perangkat riset yang sekarang dipakai di laboratorium di seluruh dunia.
 
 ## Cara Kerjanya, Tanpa Istilah Rumit
 

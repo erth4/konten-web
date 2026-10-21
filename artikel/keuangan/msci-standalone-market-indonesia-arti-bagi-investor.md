@@ -31,7 +31,7 @@ Pada 15 Oktober 2026, MSCI mengumumkan konsultasi atas proposal untuk mengubah k
 
 Jadwalnya jelas. MSCI menerima masukan dari pelaku pasar sampai 30 April 2027 dan akan mengumumkan keputusan paling lambat 30 Juni 2027. Dalam rilisnya MSCI juga menyebut kemungkinan memberi pembaruan sementara selama masa konsultasi.
 
-Tetapi jangan membaca "konsultasi" sebagai "pasti batal". MSCI menulis bahwa mereka berencana meneruskan usulan itu, kecuali konsultasi menemukan bukti jelas adanya perbaikan material pada tata kelola dan cara kerja pasar.
+Tetapi jangan membaca "konsultasi" sebagai "pasti batal". Sikap bawaan MSCI adalah melanjutkan usulan itu. Yang bisa mengubahnya hanya bukti nyata bahwa tata kelola dan jalannya pasar sudah membaik secara berarti.
 
 ## MSCI Itu Siapa, dan Kenapa Pengumumannya Mengguncang
 
@@ -43,7 +43,7 @@ Menurut rilis MSCI, kekhawatirannya menyangkut investability, yaitu seberapa lay
 
 Dua hal itu penting karena MSCI menghitung indeks dari saham yang benar-benar bisa diperdagangkan publik, atau free float. Kalau kepemilikan tidak transparan, sulit menilai berapa saham yang sebenarnya beredar bebas. Dan kalau harga diduga digerakkan secara terkoordinasi, harga yang tampak di layar tidak bisa dipercaya sebagai dasar menyusun portofolio.
 
-Otoritas Indonesia sebenarnya sudah bergerak. Reformasi yang disebut MSCI mencakup pengungkapan pemegang saham di atas 1 persen, pengungkapan klasifikasi investor yang lebih rinci, pelaporan konsentrasi kepemilikan tinggi, dan peta jalan menuju batas minimum free float 15 persen. Masalahnya, menurut MSCI, belum ada penerapan yang konsisten dan dampak berkelanjutan, ditambah masih adanya dugaan perdagangan terkoordinasi serta minimnya bukti penegakan hukum yang berarti.
+Otoritas Indonesia sebenarnya sudah bergerak. Reformasi yang disebut MSCI mencakup pengungkapan pemegang saham di atas 1 persen, pengungkapan klasifikasi investor yang lebih rinci, pelaporan konsentrasi kepemilikan tinggi, dan peta jalan menuju batas minimum free float 15 persen. Bagi MSCI, persoalannya ada di pelaksanaan: aturan belum terlihat berjalan konsisten dan belum terbukti berdampak lama, sementara dugaan perdagangan terkoordinasi masih muncul dan tanda penegakan hukum yang sungguh-sungguh sulit ditemukan.
 
 Soal Frontier Market, MSCI menilai pemindahan ke sana tidak akan mencerminkan kedalaman masalahnya. Itu alasan mereka mengajukan Standalone.
 

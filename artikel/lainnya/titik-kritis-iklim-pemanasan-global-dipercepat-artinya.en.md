@@ -11,7 +11,7 @@ lang: "en"
 
 # Climate Tipping Points: What the Warning on Accelerating Warming Means
 
-On Tuesday 20 October 2026, at the Reuters Sustainability Europe conference, climate scientist Johan Rockström delivered a warning that media in many countries picked up straight away. The director of the Potsdam Institute for Climate Impact Research said that warming driven by fossil fuel emissions is accelerating and pushing a number of vital ecosystems toward **climate tipping points**. The phrase sounds technical. This piece unpacks it, and also what can't yet be said for certain.
+On Tuesday 20 October 2026, at the Reuters Sustainability Europe conference, climate scientist Johan Rockström delivered a warning that media in many countries picked up straight away. The director of the Potsdam Institute for Climate Impact Research told the audience that the heating caused by burning fossil fuels is gathering pace, and that several of the planet's key ecosystems are edging toward **climate tipping points**. The phrase sounds technical. This piece unpacks it, and also what can't yet be said for certain.
 
 ## What a Tipping Point Is
 
@@ -32,8 +32,8 @@ A 2022 study in the journal Science, co-authored by Rockström, found that going
 According to reports in various outlets, he made several points.
 
 - Global warming is picking up pace.
-- Damage to coral reefs and the Amazon is close to irreversible.
-- Parts of the Atlantic circulation are near collapse.
+- Harm to coral reefs and the Amazon is nearing the point of no return.
+- Sections of the Atlantic circulation sit on the brink of breaking down.
 - The world is on course to exceed 1.5 degrees Celsius of warming within the next few years, ahead of the COP31 negotiations opening on 9 November.
 - He also criticised lobbying to loosen rules on phasing out combustion-engine vehicles, and fuel subsidies that dampen demand for electric ones.
 
@@ -41,7 +41,7 @@ According to reports in various outlets, he made several points.
 
 A few notes to avoid two equally common mistakes: panicking, or shrugging it off.
 
-**This was a conference statement, not a new study.** Words like "irreversible" and "near collapse" are Rockström's assessment. He's a highly regarded scientist, but other scientists may judge differently how close a threshold is and how certain.
+**This was a conference statement, not a new study.** Framings like "point of no return" and "brink of breaking down" are Rockström's assessment. He's a highly regarded scientist, but other scientists may judge differently how close a threshold is and how certain.
 
 **Thresholds don't come with exact numbers.** Researchers use ranges of temperature, not a single figure. That uncertainty isn't a reason to wait. Precisely because the consequences are hard to undo, many scientists consider caution reasonable.
 

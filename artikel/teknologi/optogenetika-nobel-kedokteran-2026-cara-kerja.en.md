@@ -13,13 +13,13 @@ lang: "en"
 
 Picture a light switch for one type of cell inside a living brain. Flip it, and the cell fires. Let go, and it stops. And the switch is made of light. That's the simplest picture of **optogenetics**, the technique that on 5 October 2026 won three scientists the Nobel Prize in Physiology or Medicine.
 
-Three scientists share it: Karl Deisseroth of Stanford and the Howard Hughes Medical Institute, Peter Hegemann of Humboldt University of Berlin, and Georg Nagel of the University of Würzburg. According to the Nobel website, the prize recognises discoveries leading to optogenetics, which makes it possible to switch the activity of individual nerve cells in a living brain on or off. What makes the story striking is where it began: with a single-celled alga.
+Three scientists share it: Karl Deisseroth of Stanford and the Howard Hughes Medical Institute, Peter Hegemann of Humboldt University of Berlin, and Georg Nagel of the University of Würzburg. The Nobel committee credits their discoveries with paving the way for optogenetics, a method for turning chosen nerve cells in a living brain on or off. What makes the story striking is where it began: with a single-celled alga.
 
 ## From a Pond to the Brain Lab
 
 Some green algae sense light so they can swim in the right direction. Their sensor is a protein called channelrhodopsin, a channel that opens when light hits it. Hegemann and Nagel found this protein in an alga. At first, the link to brain research was far from obvious.
 
-Then came a sharp question: if this protein can open a channel in algal cells, could it be placed in nerve cells so those cells respond to light? Deisseroth and his team helped turn the protein into a control tool for nerve cells. The Nobel site describes Deisseroth as having turned the algal protein into a light-controlled switch for nerve cells. The result is a research instrument now used in laboratories worldwide.
+Then came a sharp question: if this protein can open a channel in algal cells, could it be placed in nerve cells so those cells respond to light? Deisseroth and his team helped turn the protein into a control tool for nerve cells. Deisseroth is credited with adapting the algal protein so that it works as a light-operated switch inside nerve cells. The result is a research instrument now used in laboratories worldwide.
 
 ## How It Works, Without the Jargon
 

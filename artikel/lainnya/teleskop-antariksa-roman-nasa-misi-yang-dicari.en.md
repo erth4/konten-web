@@ -32,7 +32,7 @@ If Hubble is like a close-up lens capturing fine detail, Roman works more like a
 
 ## What It Will Hunt For
 
-NASA describes its mission as covering a lot, from the outer solar system to the edge of the observable universe. Two big themes come up most:
+NASA gives the mission a broad remit, stretching from the fringes of our own solar system to the farthest reaches we can observe. Two big themes come up most:
 
 **Dark energy.** Since the late 1990s, astronomers have known that the universe's expansion appears to be speeding up. Its cause, named dark energy, is still a mystery. By mapping how galaxies are distributed and watching objects such as exploding stars across a very wide sky, Roman will gather data to test ideas about it.
 
