@@ -13,7 +13,7 @@ lang: "en"
 
 Picture a light switch for one type of cell inside a living brain. Flip it, and the cell fires. Let go, and it stops. And the switch is made of light. That's the simplest picture of **optogenetics**, the technique that on 5 October 2026 won three scientists the Nobel Prize in Physiology or Medicine.
 
-The laureates are Karl Deisseroth of Stanford and the Howard Hughes Medical Institute, Peter Hegemann of Humboldt University of Berlin, and Georg Nagel of the University of Würzburg. According to the Nobel website, the prize recognises discoveries leading to optogenetics, which makes it possible to switch the activity of individual nerve cells in a living brain on or off. What makes the story striking is where it began: with a single-celled alga.
+Three scientists share it: Karl Deisseroth of Stanford and the Howard Hughes Medical Institute, Peter Hegemann of Humboldt University of Berlin, and Georg Nagel of the University of Würzburg. According to the Nobel website, the prize recognises discoveries leading to optogenetics, which makes it possible to switch the activity of individual nerve cells in a living brain on or off. What makes the story striking is where it began: with a single-celled alga.
 
 ## From a Pond to the Brain Lab
 
@@ -23,7 +23,7 @@ Then came a sharp question: if this protein can open a channel in algal cells, c
 
 ## How It Works, Without the Jargon
 
-The process boils down to three steps.
+Boiled down, the process takes three steps.
 
 1. **Insert a gene.** A gene for a light-sensitive protein is delivered to a chosen type of cell, say only one class of signalling neurons. This is usually done with a vector, a carrier built from a virus that has been made harmless.
 2. **Shine light.** Light from a thin optical fibre or another source is aimed at the target area.
@@ -33,7 +33,7 @@ Compared with older approaches like drugs or electrodes, two advantages come up 
 
 ## What It's Used For
 
-The biggest use so far is basic research. Scientists use optogenetics, mostly in lab animals, to map brain circuits involved in things like fear, memory, sleep, and habit. By lighting up one group of cells and seeing the effect, they can answer questions that once could only be guessed at from correlations.
+So far, basic research is where it gets used most. Scientists use optogenetics, mostly in lab animals, to map brain circuits involved in things like fear, memory, sleep, and habit. By lighting up one group of cells and seeing the effect, they can answer questions that once could only be guessed at from correlations.
 
 In the clinic, the story is far earlier. One of the most developed directions is restoring sight in retinal diseases such as retinitis pigmentosa. The idea is that surviving retinal cells receive a light-sensitive gene so they can respond to brightness. Scientific reports describe clinical trials already under way, showing partial restoration in some patients.
 
@@ -57,6 +57,6 @@ So optogenetics is not yet a button that treats brain disease in general. Many a
 
 ## The Lesson Behind the Prize
 
-The story is a reminder that big breakthroughs often grow out of curiosity that looks useless. Studying how algae sense light didn't look like a road to neuroscience. Yet that basic knowledge became a tool that changed how researchers understand the brain.
+This story is a reminder that big breakthroughs often grow out of curiosity that looks useless. Studying how algae sense light didn't look like a road to neuroscience. Yet that basic knowledge became a tool that changed how researchers understand the brain.
 
 If you'd like to dig deeper, read the official Nobel page for this year's prize. It offers a popular-science explanation written for general readers and covers the history of the discovery more fully than there is room for here.
