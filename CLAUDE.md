@@ -134,5 +134,8 @@ Setelah artikel dan gambar siap dan diunggah, commit dengan format konvensional 
 | 101 | `optogenetika-nobel-kedokteran-2026-cara-kerja` | 2026-10-21 |
 | 102 | `titik-kritis-iklim-pemanasan-global-dipercepat-artinya` | 2026-10-21 |
 | 103 | `misi-mmx-jepang-phobos-sampel-bulan-mars` | 2026-10-21 |
+| 104 | `kecemasan-terhadap-ai-survei-chapman-2026-cara-menyikapi` | 2026-10-21 |
+| 105 | `olahraga-sebagai-resep-pernyataan-acc-kesehatan-jantung` | 2026-10-21 |
+| 106 | `teleskop-antariksa-roman-nasa-misi-yang-dicari` | 2026-10-21 |
 
 Artikel lain di `artikel/` mungkin sudah atau belum ada di situs; cek panel admin sebelum mengunggah ulang.
