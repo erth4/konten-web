@@ -137,5 +137,8 @@ Setelah artikel dan gambar siap dan diunggah, commit dengan format konvensional 
 | 104 | `kecemasan-terhadap-ai-survei-chapman-2026-cara-menyikapi` | 2026-10-21 |
 | 105 | `olahraga-sebagai-resep-pernyataan-acc-kesehatan-jantung` | 2026-10-21 |
 | 106 | `teleskop-antariksa-roman-nasa-misi-yang-dicari` | 2026-10-21 |
+| 107 | `iphone-air-2-bocoran-rilis-2027-cara-menyikapi-rumor` | 2026-10-21 |
+| 108 | `mati-lampu-cara-cek-pemadaman-pln-dan-lapor-gangguan` | 2026-10-21 |
+| 109 | `nobel-ekonomi-2026-hall-woodford-stabilisasi-ekonomi-artinya` | 2026-10-21 |
 
 Artikel lain di `artikel/` mungkin sudah atau belum ada di situs; cek panel admin sebelum mengunggah ulang.
